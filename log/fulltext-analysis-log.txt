@@ -1,0 +1,47 @@
+Parsed 542, 2594, 231 papers from Google Scholar (various publishers), Springer, and arXiv; respectively.
+
+Added papers from source: google-scholar
+Added papers from source: springer
+Added papers from source: arxiv
+Total papers collected: 3367
+Total unique titles collected: 3332
+
+Separated 35 duplicate papers for further analysis
+
+Impact of Climate Change on the Distribution of Euscaphis japonica (Staphyleaceae) Trees --> Same paper, deleted the duplicate
+Reasoning about climate uncertainty --> Same paper, deleted the duplicate
+The health effects of climate change: Know the risks and become part of the solutions --> Same paper, deleted the duplicate
+THE ALGORITHMIC DIVIDE AND EQUALITY IN TE AGE OF ARTIFICIAL INTELLIGENCE --> Same paper, deleted the duplicate
+Climate change and COP26: Are digital technologies and information management part of the problem or the solution? An editorial reflection and call to action ☆ --> Same paper, deleted the duplicate
+Artificial Intelligence, Machine Learning and Modeling for Understanding the Oceans and Climate Change --> Same paper, deleted the duplicate
+Review of Mark Coeckelbergh (2021). Green Leviathan or the Poetics of Political Liberty: Navigating Freedom in the Age of Climate Change and Artificial Intelligence Abingdon and New York: Routledge. 150 pp. ISBN 9780367745998 (Hardcover) --> Same paper, deleted the duplicate
+AI for climate: freedom, justice, and other ethical and political challenges --> Same paper, deleted the duplicate
+Integrating speed breeding with artificial intelligence for developing climate-smart crops --> Same paper, deleted the duplicate
+AutoML for Climate Change: A Call to Action --> Same paper, deleted the duplicate
+The Human Effect Requires Affect: Addressing Social-Psychological Factors of Climate Change with Machine Learning --> Same paper, deleted the duplicate
+Impact of Climate Change on Dryland Agricultural Systems: A Review of Current Status, Potentials, and Further Work Need --> Same paper, deleted the duplicate
+A bitter cup: climate change profile of global production of Arabica and Robusta coffee --> Same paper, deleted the duplicate
+Hospitality Industry 4.0 and Climate Change --> Same paper, deleted the duplicate
+Computers and Electronics in Agriculture --> Different papers, changed the titles in JSON files manually
+Remote sensing and AI for building climate adaptation applications --> Same paper, deleted the duplicate
+VISUALIZING THE CONSEQUENCES OF CLIMATE CHANGE USING CYCLE-CONSISTENT ADVERSARIAL NETWORKS --> Same paper, deleted the duplicate
+Adapting Irrigation Strategies to Mitigate Climate Change Impacts: A Value Engineering Approach --> Same paper, deleted the duplicate
+Aim in Climate Change and City Pollution --> Same paper, deleted the duplicate
+Quantum Artificial Intelligence for the Science of Climate Change --> Same paper, deleted the duplicate
+The AI gambit: leveraging artificial intelligence to combat climate change-opportunities, challenges, and recommendations --> Same paper, deleted the duplicate
+Deep learning-based estimation of PV power plant potential under climate change: a case study of El Akarit, Tunisia --> Same paper, deleted the duplicate
+Circular economy strategies for combating climate change and other environmental issues --> Same paper, deleted the duplicate
+Multi-Agent Reinforcement Learning and Human Social Factors in Climate Change Mitigation --> Same paper, deleted the duplicate
+Tackling Climate Change with Machine Learning --> Different versions of the same paper, deleted the old version (2019) and kept the latest version (2022)
+Will Artificial Intelligence supersede Earth System and Climate Models? --> Same paper, deleted the duplicate
+Shorter blooms expected with longer warm periods under climate change: an example from a shallow mesoeutrophic Mediterranean lake --> Same paper, deleted the duplicate
+A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya --> Same paper, deleted the duplicate
+Role of thermal spray in combating climate change --> Same paper, deleted the duplicate
+Four New Horsemen of an Apocalypse? Solar Flares, Super-volcanoes, Pandemics, and Artificial Intelligence --> Same paper, deleted the duplicate
+CLIMATE CHANGE & COMPUTER AUDITION: A CALL TO ACTION AND OVERVIEW ON AUDIO INTELLIGENCE TO HELP SAVE THE PLANET A PREPRINT --> Same paper, deleted the duplicate
+Machine learning for research on climate change adaptation policy integration: an exploratory UK case study --> Same paper, deleted the duplicate
+CLIMATE CHANGE AND HEALTH (J SEMENZA, SECTION EDITOR) --> Same paper, deleted the duplicate
+International Journal of Health Geographics --> Different papers in a same journal (an issue of parsing), changed the titles in JSON files manually
+Life Sciences --> Different papers in a same journal (an issue of parsing), changed the titles in JSON files manually
+
+After handling duplicates, 520, 2594, 221 papers from Google Scholar (various publishers), Springer, and arXiv are left; respectively.

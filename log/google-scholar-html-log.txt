@@ -1,0 +1,289 @@
+1 --> https://link.springer.com/article/10.1007/s00146-021-01294-x
+
+2 --> https://iopscience.iop.org/article/10.1088/1748-9326/ab4e55/meta
+
+3 --> https://www.emerald.com/insight/content/doi/10.1108/JICES-11-2021-0106/full/html
+
+4 --> https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0039-1677910
+
+5 --> https://www.sciencedirect.com/science/article/pii/S2590332221002992
+
+6 --> https://iwaponline.com/jh/article/23/6/1395/84673
+
+7 --> https://www.sciencedirect.com/science/article/pii/S2667278221000535
+
+8 --> https://www.mdpi.com/2673-4591/9/1/39/htm
+
+9 --> https://dl.acm.org/doi/full/10.1145/3485128
+
+10 --> https://link.springer.com/article/10.1007/s42438-022-00312-5
+
+11 --> https://www.pnas.org/doi/full/10.1073/pnas.2018732117
+
+12 --> https://dl.acm.org/doi/abs/10.4018/jats.2010100103
+
+13 --> https://www.sciencedirect.com/science/article/pii/S1470160X21011614
+
+14 --> https://link.springer.com/article/10.1007/s43681-020-00007-2
+
+15 --> https://www.sciencedirect.com/science/article/pii/S2666784322000237
+
+16 --> https://www.nature.com/articles/s41467-019-14108-y
+
+17 --> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132066
+
+18 --> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132066
+
+19 --> https://www.intechopen.com/chapters/66662
+
+20 --> https://www.sciencedirect.com/science/article/pii/S2211912422000141
+
+21 --> https://link.springer.com/article/10.1007/s10113-020-01677-8
+
+22 --> https://link.springer.com/article/10.1007/s11033-022-07769-4
+
+23 --> https://link.springer.com/chapter/10.1007/978-3-031-04083-2_16
+
+24 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2009-5/html
+
+25 --> https://energsustainsoc.biomedcentral.com/articles/10.1186/s13705-020-00266-1
+
+26 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587682/
+
+27 --> https://www.sciencedirect.com/science/article/pii/S0360132321003632
+
+28 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/119615
+
+29 --> https://www.researchprotocols.org/2021/9/e31389/
+
+30 --> https://www.sciencedirect.com/science/article/pii/S1470160X21001084
+
+31 --> https://www.sciencedirect.com/science/article/pii/S0268401221001407
+
+32 --> https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-09-2020-0097/full/html
+
+33 --> https://www.sciencedirect.com/science/article/pii/S2352250X21000373
+
+34 --> https://link.springer.com/article/10.1007/s41885-022-00105-x
+
+35 --> https://www.nature.com/articles/s41612-020-00148-5
+
+36 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2013-39/html
+
+37 --> https://link.springer.com/article/10.1007/s42106-022-00197-1
+
+38 --> http://www.cemas.org.uk/index.php/17-content/publications/2009-how-artificial-intelligence-is-transforming-the-world
+
+39 --> https://www.sciencedirect.com/science/article/pii/S2666776222000631
+
+40 --> https://wellcomeopenresearch.org/articles/6-278
+
+41 --> https://www.intechopen.com/chapters/74649
+
+42 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/335527
+
+43 --> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229881
+
+44 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2009-26/html
+
+45 --> https://pure.mpg.de/rest/items/item_3275149_1/component/file_3275150/content
+
+46 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2012-13/html
+
+47 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7305927/
+
+48 --> https://www.sciencedirect.com/science/article/pii/S2590332220305510
+
+49 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2014-1/html
+
+50 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2013-35/html
+
+51 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2013-34/html
+
+52 --> https://www.nature.com/articles/s41467-022-30356-x
+
+53 --> https://link.springer.com/article/10.1007/s40572-018-0189-9
+
+54 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587687/
+
+55 --> https://www.liebertpub.com/doi/full/10.1089/big.2014.0026
+
+56 --> https://www.lidsen.com/journals/aeer/aeer-03-03-033
+
+57 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530581/
+
+58 --> https://www.tandfonline.com/doi/full/10.1080/07373937.2020.1786981
+
+59 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8966829/
+
+60 --> https://www.sciencedirect.com/science/article/pii/S2352484721012592
+
+61 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2015-10/html
+
+62 --> https://www.mdpi.com/2071-1050/14/10/6161/htm
+
+63 --> https://pure.mpg.de/rest/items/item_3275149_2/component/file_3275150/content?download=true
+
+64 --> https://www.hindawi.com/journals/jeph/2022/1803401/
+
+65 --> https://www.sciencedirect.com/science/article/pii/S0268401221001493
+
+66 --> https://www.sciencedirect.com/science/article/pii/S0268401221001493
+
+67 --> https://link.springer.com/chapter/10.1007/978-3-030-49190-1_21
+
+68 --> https://link.springer.com/article/10.1007/s42247-021-00307-1
+
+69 --> https://www.sciencedirect.com/science/article/pii/S2352484722018881
+
+70 --> https://www.sciencedirect.com/science/article/pii/S0078323420300245
+
+71 --> https://academic.oup.com/bioscience/article/68/5/348/4933917
+
+72 --> https://climatechangethefacts.org.au/2021/08/12/no-evidence-for-ipccs-certitude/
+
+73 --> https://www.frontiersin.org/articles/10.3389/fmars.2021.688712/full
+
+74 --> https://www.sciencedirect.com/science/article/pii/S235248472100007X
+
+75 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2013-36/html
+
+76 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/215233
+
+77 --> https://www.hindawi.com/journals/complexity/2022/8451812/
+
+78 --> https://iwaponline.com/hr/article/52/1/176/79185
+
+79 --> https://link.springer.com/article/10.1007/s10311-022-01499-6
+
+80 --> https://www.frontiersin.org/articles/10.3389/fpls.2020.00922/full
+
+81 --> https://www.sciencedirect.com/science/article/pii/S0166497222001596
+
+82 --> https://www.mdpi.com/1999-4907/11/5/525/htm
+
+83 --> https://www.mdpi.com/1999-4907/11/5/525/htm
+
+84 --> https://www.cigionline.org/articles/case-climate-geoengineering-strategy/
+
+85 --> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262008
+
+86 --> https://www.findaphd.com/phds/project/ai-to-the-rescue-of-climate-change-modelling-air-quality-for-cleaner-urban-planning/?p121343
+
+87 --> https://www.diva-portal.org/smash/record.jsf?pid=diva2:1425352
+
+88 --> https://www.sciencedirect.com/science/article/pii/S2667278221000997
+
+89 --> https://www.sciencedirect.com/science/article/pii/S0168169918316612
+
+90 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7529396/
+
+91 --> https://www.sciencedirect.com/science/article/pii/S221209632100019X
+
+92 --> https://www.sciencedirect.com/science/article/pii/S1364032120307024
+
+93 --> https://www.sciencedirect.com/science/article/pii/S1364032120307024
+
+94 --> http://www.ciesin.org/docs/006-141/006-141.html
+
+95 --> https://www.sciencedirect.com/science/article/pii/S2212096321001169
+
+96 --> https://www.sciencedirect.com/science/article/pii/S1470160X21002934
+
+97 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324930/
+
+98 --> http://www.inesnet.ru/eng_keywords/economy/
+
+99 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/215789
+
+100 --> https://www.frontiersin.org/articles/10.3389/frwa.2021.670950/full
+
+101 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336580/
+
+102 --> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017731
+
+103 --> https://www.mdpi.com/2412-3811/6/2/14/htm
+
+104 --> https://www.scielo.br/j/asoc/a/Bwg7NVTs5kcrK6WRxbqh4LS/
+
+105 --> https://www.oaepublish.com/cf/article/view/5265
+
+106 --> https://www.oaepublish.com/cf/article/view/5265
+
+107 --> https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2019-45/issue-5-may-2-2019/article-1-health-solution-climate-change-risks-solutions.html
+
+108 --> https://www.frontiersin.org/articles/10.3389/fenvs.2021.619092/full?utm_source=dlvr.it&utm_medium=twitter
+
+109 --> https://indiafoundation.in/articles-and-commentaries/chinas-culpability-for-climate-change/
+
+110 --> https://physics.aps.org/articles/v14/100?utm_campaign=weekly&utm_medium=email&utm_source=emailalert
+
+111 --> https://gep.ui.ac.ir/article_26454.html?lang=en
+
+112 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/125950
+
+113 --> https://www.bbvaopenmind.com/en/articles/the-past-decade-and-future-of-ais-impact-on-society/
+
+114 --> https://www.degruyter.com/document/doi/10.5018/economics-ejournal.ja.2009-27/html
+
+115 --> https://link.springer.com/article/10.1007/s10584-014-1306-x?smid=nytcore-ios-share&error=cookies_not_supported&code=46d83161-f917-4d67-ac25-a8d24eb826d5
+
+116 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/335586
+
+117 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/335586
+
+118 --> https://www.sciencedirect.com/science/article/pii/S2542519621001418
+
+119 --> https://www.mdpi.com/2225-1154/10/5/65/htm
+
+120 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587692/
+
+121 --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587692/
+
+122 --> https://www.nature.com/articles/s41558-020-00952-0
+
+123 --> https://js17adt.wordpress.com/2020/01/14/design-for-the-new-climate-era/
+
+124 --> https://www.e-ir.info/2019/03/20/the-great-thaw-climate-change-and-the-post-cold-war-world/
+
+125 --> https://forum.effectivealtruism.org/posts/xJhtrAxd5QpXi2CdA/the-threat-of-climate-change-is-exaggerated
+
+126 --> https://www.cairn.info/revue-l-europe-en-formation-2021-2-page-188.htm
+
+127 --> https://link.springer.com/article/10.1007/s11269-022-03353-4
+
+128 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/331871
+
+129 --> https://link.springer.com/article/10.1007/s10750-021-04773-w
+
+130 --> https://www.researchgate.net/profile/Stefano-Amendola/amp
+
+131 --> https://sciendo.com/es/article/10.2478/izajolp-2019-0004
+
+132 --> https://azdok.net/document/z1dleg3p-artificial-intelligence-approaches-studying-impacts-precipitation-balochistan-pakistan.html
+
+133 --> https://www.sciencedirect.com/science/article/pii/S0078323413500327
+
+134 --> https://meetingorganizer.copernicus.org/EGU22/EGU22-6568.html
+
+135 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/227858
+
+136 --> https://www.sciencedirect.com/science/article/pii/S0301420722003166
+
+137 --> https://link.springer.com/article/10.1007/s10584-022-03444-6
+
+138 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/297283
+
+139 --> https://www.frontiersin.org/articles/10.3389/fclim.2020.571245/full
+
+140 --> https://link.springer.com/article/10.1007/s10584-011-0180-z
+
+141 --> https://climateandsecurity.org/2019/03/the-thirty-years-climate-warning/
+
+142 --> https://link.springer.com/article/10.1007/s43615-021-00141-x
+
+143 --> http://resp.llas.ac.cn/C666/handle/2XK7JSWQ/126877
+
+144 --> https://www.frontiersin.org/articles/10.3389/fenvs.2022.868197/full?utm_source=dlvr.it&utm_medium=twitter
+
+145 --> https://ceric.ca/2019/10/how-will-climate-change-affect-the-future-of-employment-in-canada/ 

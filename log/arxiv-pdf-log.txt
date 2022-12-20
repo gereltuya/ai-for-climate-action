@@ -1,0 +1,392 @@
+
+1 . NLP for Climate Policy: Creating a Knowledge Platform for Holistic and Effective Climate Action
+2 . CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims
+3 . The Human Effect Requires Affect: Addressing Social-Psychological Factors of Climate Change with Machine Learning
+4 . Quantum Artificial Intelligence for the Science of Climate Change
+5 . Handling Climate Change Using Counterfactuals: Using Counterfactuals in Data Augmentation to Predict Crop Growth in an Uncertain Climate Future
+6 . Visualizing the Consequences of Climate Change Using Cycle-Consistent Adversarial Networks
+7 . AutoML for Climate Change: A Call to Action
+8 . ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods
+9 . ClimaText: A Dataset for Climate Change Topic Detection
+10 . Multi-scale Digital Twin: Developing a fast and physics-informed surrogate model for groundwater contamination with uncertain climate models
+11 . Climate Impact Modelling Framework
+12 . B-SMART: A Reference Architecture for Artificially Intelligent Autonomic Smart Buildings
+13 . Helping Reduce Environmental Impact of Aviation with Machine Learning
+14 . Personalizing Sustainable Agriculture with Causal Machine Learning
+15 . Remote sensing and AI for building climate adaptation applications
+16 . Using Text Classification with a Bayesian Correction for Estimating Overreporting in the Creditor Reporting System on Climate Adaptation Finance
+17 . Avoiding the Great Filter: A Simulation of Important Factors for Human Survival
+18 . Tackling Climate Change with Machine Learning
+19 . Generative modeling of spatio-temporal weather patterns with extreme event conditioning
+20 . The potential of artificial intelligence for achieving healthy and sustainable societies
+21 . Modeling of Pan Evaporation Based on the Development of Machine Learning Methods
+22 . Logical Fallacy Detection
+23 . STCGAT: A Spatio-temporal Causal Graph Attention Network for traffic flow prediction in Intelligent Transportation Systems
+24 . Spatial Projection of Multiple Climate Variables using Hierarchical Multitask Learning
+25 . Interpretability in Convolutional Neural Networks for Building Damage Classification in Satellite Imagery
+26 . Vehicle Emissions Prediction with Physics-Aware AI Models: Preliminary Results
+27 . FlowDB a large scale precipitation, river, and flash flood dataset
+28 . Towards Indirect Top-Down Road Transport Emissions Estimation
+29 . Urban Tree Species Classification Using Aerial Imagery
+30 . A comparative study of stochastic and deep generative models for multisite precipitation synthesis
+31 . Emulating Fast Processes in Climate Models
+32 . Advancing Renewable Electricity Consumption With Reinforcement Learning
+33 . Attentive Neural Processes and Batch Bayesian Optimization for Scalable Calibration of Physics-Informed Digital Twins
+34 . Aim in Climate Change and City Pollution
+35 . Targets in Reinforcement Learning to solve Stackelberg Security Games
+36 . Multi-Agent Reinforcement Learning and Human Social Factors in Climate Change Mitigation
+37 . Towards assessing agricultural land suitability with causal machine learning
+38 . Deep Learning for Global Wildfire Forecasting
+39 . Evaluating Digital Tools for Sustainable Agriculture using Causal Inference
+40 . Predicting Forest Fire Using Remote Sensing Data And Machine Learning
+41 . Decadal Forecasts with ResDMD: a Residual DMD Neural Network
+42 . PreDisM: Pre-Disaster Modelling With CNN Ensembles for At-Risk Communities
+43 . Land Use Prediction using Electro-Optical to SAR Few-Shot Transfer Learning
+44 . Leveraging Decentralized Artificial Intelligence to Enhance Resilience of Energy Networks
+45 . pymgrid: An Open-Source Python Microgrid Simulator for Applied Artificial Intelligence Research
+46 . Towards an AI assistant for power grid operators
+47 . Energy System Digitization in the Era of AI: A Three-Layered Approach towards Carbon Neutrality
+48 . Will Artificial Intelligence supersede Earth System and Climate Models?
+49 . Climate Modeling with Neural Diffusion Equations
+50 . Efficient Climate Simulation via Machine Learning Method
+51 . A critical appraisal of equity in conversational AI: Evidence from auditing GPT-3's dialogues with different publics on climate change and Black Lives Matter
+52 . Artificial Intelligence & Cooperation
+53 . Scientometric Review of Artificial Intelligence for Operations & Maintenance of Wind Turbines: The Past, Present and Future
+54 . Accurate Long-term Air Temperature Prediction with a Fusion of Artificial Intelligence and Data Reduction Techniques
+55 . RainBench: Towards Global Precipitation Forecasting from Satellite Imagery
+56 . Jalisco's multiclass land cover analysis and classification using a novel lightweight convnet with real-world multispectral and relief data
+57 . Generative Modeling of High-resolution Global Precipitation Forecasts
+58 . Towards Global Crop Maps with Transfer Learning
+59 . EarthNet2021: A novel large-scale dataset and challenge for forecasting localized climate impacts
+60 . Machine Learning Challenges and Opportunities in the African Agricultural Sector -- A General Perspective
+61 . Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning
+62 . Deep reinforcement learning in World-Earth system models to discover sustainable management strategies
+63 . Characterization of Industrial Smoke Plumes from Remote Sensing Data
+64 . The Digital Agricultural Revolution: a Bibliometric Analysis Literature Review
+65 . Modelling the transition to a low-carbon energy supply
+66 . Reinforcement learning for Energies of the future and carbon neutrality: a Challenge Design
+67 . Sea Ice Forecasting using Attention-based Ensemble LSTM
+68 . A Comparative Study of Machine Learning and Deep Learning Techniques for Prediction of Co2 Emission in Cars
+69 . Artificial intelligence for Sustainable Energy: A Contextual Topic Modeling and Content Analysis
+70 . AI Ethics for Systemic Issues: A Structural Approach
+71 . Artificial intelligence for elections: the case of 2019 Argentina primary and presidential election
+72 . Wind Speed Prediction and Visualization Using Long Short-Term Memory Networks (LSTM)
+73 . HydroDeep -- A Knowledge Guided Deep Neural Network for Geo-Spatiotemporal Data Analysis
+74 . Impact of weather factors on migration intention using machine learning algorithms
+75 . An Enriched Automated PV Registry: Combining Image Recognition and 3D Building Data
+76 . Towards Optimal District Heating Temperature Control in China with Deep Reinforcement Learning
+77 . Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based Simulation
+78 . A modular framework for extreme weather generation
+79 . Rapid Detection of Aircrafts in Satellite Imagery based on Deep Neural Networks
+80 . Extreme Precipitation Seasonal Forecast Using a Transformer Neural Network
+81 . Heterogeneous Ensemble for ESG Ratings Prediction
+82 . The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink
+83 . MM-Claims: A Dataset for Multimodal Claim Detection in Social Media
+84 . Towards predicting dynamic stability of power grids with Graph Neural Networks
+85 . FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators
+86 . Research Note on Uncertain Probabilities and Abstract Argumentation
+87 . Institutional Foundations of Adaptive Planning: Exploration of Flood Planning in the Lower Rio Grande Valley, Texas, USA
+88 . High-resolution synthetic residential energy use profiles for the United States
+89 . Towards transparent ANN wind turbine power curve models
+90 . Attention-Based Scattering Network for Satellite Imagery
+91 . Rhino: Deep Causal Temporal Relationship Learning With History-dependent Noise
+92 . Quantum Power Flows: From Theory to Practice
+93 . A POMDP Model for Safe Geological Carbon Sequestration
+94 . Winning the CityLearn Challenge: Adaptive Optimization with Evolutionary Search under Trajectory-based Guidance
+95 . Proceedings of KDD 2021 Workshop on Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning
+96 . Proceedings of KDD 2020 Workshop on Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning
+97 . Long-term hail risk assessment with deep neural networks
+98 . A machine-learning software-systems approach to capture social, regulatory, governance, and climate problems
+99 . Investigating the fidelity of explainable artificial intelligence methods for applications of convolutional neural networks in geoscience
+100 . Automatic Detection and Compression for Passive Acoustic Monitoring of the African Forest Elephant
+101 . Climate Change & Computer Audition: A Call to Action and Overview on Audio Intelligence to Help Save the Planet
+102 . Crop Yield Prediction Integrating Genotype and Weather Variables Using Deep Learning
+103 . Experimental Assessment of Aggregation Principles in Argumentation-enabled Collective Intelligence
+104 . Unsupervised Discovery of El Nino Using Causal Feature Learning on Microlevel Climate Data
+105 . Explainable Artificial Intelligence for Bayesian Neural Networks: Towards trustworthy predictions of ocean dynamics
+106 . The BLue Amazon Brain (BLAB): A Modular Architecture of Services about the Brazilian Maritime Territory
+107 . Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams using Machine Learning
+108 . The Need for Ethical, Responsible, and Trustworthy Artificial Intelligence for Environmental Sciences
+109 . Spatio-Temporal Data Mining: A Survey of Problems and Methods
+110 . Super-Resolution of PROBA-V Images Using Convolutional Neural Networks
+111 . An Implementation of a Non-monotonic Logic in an Embedded Computer for a Motor-glider
+112 . Optimizing carbon tax for decentralized electricity markets using an agent-based model
+113 . Degrees of individual and groupwise backward and forward responsibility in extensive-form games with ambiguity, and their application to social choice problems
+114 . Hurricane Forecasting: A Novel Multimodal Machine Learning Framework
+115 . OGNet: Towards a Global Oil and Gas Infrastructure Database using Deep Learning on Remotely Sensed Imagery
+116 . Highlighting the Importance of Reducing Research Bias and Carbon Emissions in CNNs
+117 . Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning
+118 . A Machine learning approach for rapid disaster response based on multi-modal data. The case of housing & shelter needs
+119 . Moser Flow: Divergence-based Generative Modeling on Manifolds
+120 . Preliminary Wildfire Detection Using State-of-the-art PTZ (Pan, Tilt, Zoom) Camera Technology and Convolutional Neural Networks
+121 . To Charge or To Sell? EV Pack Useful Life Estimation via LSTMs and Autoencoders
+122 . Efficient Hierarchical Bayesian Inference for Spatio-temporal Regression Models in Neuroimaging
+123 . Raw Produce Quality Detection with Shifted Window Self-Attention
+124 . MonarchNet: Differentiating Monarch Butterflies from Butterflies Species with Similar Phenotypes
+125 . An Artificial Intelligence Dataset for Solar Energy Locations in India
+126 . Wildfire risk forecast: An optimizable fire danger index
+127 . Proceedings of TDA: Applications of Topological Data Analysis to Data Science, Artificial Intelligence, and Machine Learning Workshop at SDM 2022
+128 . Semantic Sensor Network Ontology based Decision Support System for Forest Fire Management
+129 . Learning to identify cracks on wind turbine blade surfaces using drone-based inspection images
+130 . Dynamic weights enabled Physics-Informed Neural Network for simulating the mobility of Engineered Nano-particles in a contaminated aquifer
+131 . DiverGet: A Search-Based Software Testing Approach for Deep Neural Network Quantization Assessment
+132 . A Supervised Learning Concept for Reducing User Interaction in Passenger Cars
+133 . Ontology-Grounded Topic Modeling for Climate Science Research
+134 . Spherical CNNs on Unstructured Grids
+135 . Behaviour in social media for floods and heat waves in disaster response via Artificial Intelligence
+136 . A review of machine learning applications in wildfire science and management
+137 . Decentralized Markets versus Central Control: A Comparative Study
+138 . Randomized Algorithms for Scientific Computing (RASC)
+139 . Physics-informed Spline Learning for Nonlinear Dynamics Discovery
+140 . CaiRL: A High-Performance Reinforcement Learning Environment Toolkit
+141 . Experimental analysis of data-driven control for a building heating system
+142 . A Popperian Falsification of Artificial Intelligence -- Lighthill Defended
+143 . Workflow Provenance in the Lifecycle of Scientific Machine Learning
+144 . Short-range forecasts of global precipitation using deep learning-augmented numerical weather prediction
+145 . Accelerating Laboratory Automation Through Robot Skill Learning For Sample Scraping
+146 . Avoiding the "Great Filter": Extraterrestrial Life and Humanity's Future in the Universe
+147 . Toward Human-AI Co-creation to Accelerate Material Discovery
+148 . Lila: A Unified Benchmark for Mathematical Reasoning
+149 . Population Growth, Energy Use, and the Implications for the Search for Extraterrestrial Intelligence
+150 . Deep-learning based down-scaling of summer monsoon rainfall data over Indian region
+151 . Non-local parameterization of atmospheric subgrid processes with neural networks
+152 . Intelligent Spatial Interpolation-based Frost Prediction Methodology using Artificial Neural Networks with Limited Local Data
+153 . Urban precipitation downscaling using deep learning: a smart city application over Austin, Texas, USA
+154 . Simulation Intelligence: Towards a New Generation of Scientific Methods
+155 . Intelligent Energy Management Systems -- A Review
+156 . Spotting Virus from Satellites: Modeling the Circulation of West Nile Virus Through Graph Neural Networks
+paper downloaded
+
+157 . The Sustainable Development Goals and Aerospace Engineering: A critical note through Artificial Intelligence
+paper downloaded
+
+158 . Using an Ancillary Neural Network to Capture Weekends and Holidays in an Adjoint Neural Network Architecture for Intelligent Building Management
+paper downloaded
+
+159 . Is Neural Network a Reliable Forecaster on Earth? A MARS Query!
+-----> paper not available
+
+160 . On the predictability of Rainfall in Kerala- An application of ABF Neural Network
+-----> paper not available
+
+161 . Improving ecological niche models by data mining large environmental datasets for surrogate models
+-----> paper not available
+
+162 . Reinforcement Learning-based Thermal Comfort Control for Vehicle Cabins
+paper downloaded
+
+163 . Physics Guided RNNs for Modeling Dynamical Systems: A Case Study in Simulating Lake Temperature Profiles
+paper downloaded
+
+164 . Generative Design in Minecraft: Chronicle Challenge
+paper downloaded
+
+165 . Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions
+paper downloaded
+
+166 . Higher-order Logic as Lingua Franca -- Integrating Argumentative Discourse and Deep Logical Analysis
+paper downloaded
+
+167 . Planting trees at the right places: Recommending suitable sites for growing trees using algorithm fusion
+paper downloaded
+
+168 . Synergy between Observation Systems Oceanic in Turbulent Regions
+paper downloaded
+
+169 . Simulation Studies on Deep Reinforcement Learning for Building Control with Human Interaction
+paper downloaded
+
+170 . Evaluation of Time Series Forecasting Models for Estimation of PM2.5 Levels in Air
+paper downloaded
+
+171 . Hard Encoding of Physics for Learning Spatiotemporal Dynamics
+paper downloaded
+
+172 . GANmapper: geographical data translation
+paper downloaded
+
+173 . Deep Geospatial Interpolation Networks
+paper downloaded
+
+174 . Graph-Guided Network for Irregularly Sampled Multivariate Time Series
+paper downloaded
+
+175 . Multiscale Neural Operator: Learning Fast and Grid-independent PDE Solvers
+paper downloaded
+
+176 . Toward Smart Doors: A Position Paper
+paper downloaded
+
+177 . Artificial Intelligence Hybrid Deep Learning Model for Groundwater Level Prediction Using MLP-ADAM
+paper downloaded
+
+178 . Resilience of Urban Transport Network-of-Networks under Intense Flood Hazards Exacerbated by Targeted Attacks
+paper downloaded
+
+179 . The Gray Rhino of Pandemic Preparedness: Proactive digital, data, and organizational infrastructure to help humanity build resilience in the face of pandemics
+paper downloaded
+
+180 . Enhanced spatio-temporal electric load forecasts using less data with active deep learning
+paper downloaded
+
+181 . EscapeWildFire: Assisting People to Escape Wildfires in Real-Time
+paper downloaded
+
+182 . Classification of PS and ABS Black Plastics for WEEE Recycling Applications
+paper downloaded
+
+183 . On the Importance of Quantifying Visibility for Autonomous Vehicles under Extreme Precipitation
+paper downloaded
+
+184 . Virulence as a Model for Interplanetary and Interstellar Colonisation - Parasitism or Mutualism
+paper downloaded
+
+185 . Robotic Tankette for Intelligent BioEnergy Agriculture: Design, Development and Field Tests
+paper downloaded
+
+186 . Forecasting Brazilian and American COVID-19 cases based on artificial intelligence coupled with climatic exogenous variables
+paper downloaded
+
+187 . Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data
+paper downloaded
+
+188 . Probabilistic Numerics and Uncertainty in Computations
+paper downloaded
+
+189 . A comparison of different types of Niching Genetic Algorithms for variable selection in solar radiation estimation
+paper downloaded
+
+190 . Integrating Deep Learning in Domain Sciences at Exascale
+paper downloaded
+
+191 . Evolution of collective fairness in complex networks through degree-based role assignment
+paper downloaded
+
+192 . Skilled and Mobile: Survey Evidence of AI Researchers' Immigration Preferences
+paper downloaded
+
+193 . Slash or burn: Power line and vegetation classification for wildfire prevention
+paper downloaded
+
+194 . Inter and Intra-Annual Spatio-Temporal Variability of Habitat Suitability for Asian Elephants in India: A Random Forest Model-based Analysis
+paper downloaded
+
+195 . Machine Learning for Mars Exploration
+paper downloaded
+
+196 . Visual Microfossil Identification via Deep Metric Learning
+paper downloaded
+
+197 . Learning Operators with Coupled Attention
+paper downloaded
+
+198 . GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations
+paper downloaded
+
+199 . So2Sat POP -- A Curated Benchmark Data Set for Population Estimation from Space on a Continental Scale
+paper downloaded
+
+200 . Forecasting COVID-19 spreading trough an ensemble of classical and machine learning models: Spain's case study
+paper downloaded
+
+201 . Earthformer: Exploring Space-Time Transformers for Earth System Forecasting
+paper downloaded
+
+202 . Carefully choose the baseline: Lessons learned from applying XAI attribution methods for regression tasks in geoscience
+paper downloaded
+
+203 . Sky-image-based solar forecasting using deep learning with multi-location data: training models locally, globally or via transfer learning?
+paper downloaded
+
+204 . The Astrobiology of the Anthropocene
+paper downloaded
+
+205 . Control and Communication Protocols that Enable Smart Building Microgrids
+paper downloaded
+
+206 . Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails
+paper downloaded
+
+207 . Sustainability of ICT hardware procurement in Switzerland -- A status-quo analysis of the public procurement sector
+paper downloaded
+
+208 . Mining Personalized Climate Preferences for Assistant Driving
+paper downloaded
+
+209 . B-ETS: A Trusted Blockchain-based Emissions Trading System for Vehicle-to-Vehicle Networks
+paper downloaded
+
+210 . Physically Interpretable Neural Networks for the Geosciences: Applications to Earth System Variability
+paper downloaded
+
+211 . A deep reinforcement learning model for predictive maintenance planning of road assets: Integrating LCA and LCCA
+paper downloaded
+
+212 . Detecting Volunteer Cotton Plants in a Corn Field with Deep Learning on UAV Remote-Sensing Imagery
+paper downloaded
+
+213 . Assessing The Performance of YOLOv5 Algorithm for Detecting Volunteer Cotton Plants in Corn Fields at Three Different Growth Stages
+paper downloaded
+
+214 . Social physics
+paper downloaded
+
+215 . Limit cycles can reduce the width of the habitable zone
+paper downloaded
+
+216 . Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection
+paper downloaded
+
+217 . Crowdsourcing the Policy Cycle
+paper downloaded
+
+218 . Objective discovery of dominant dynamical processes with intelligible machine learning
+paper downloaded
+
+219 . Feasibility study of urban flood mapping using traffic signs for route optimization
+paper downloaded
+
+220 . An Intelligent Recommendation-cum-Reminder System
+paper downloaded
+
+221 . A model-free control strategy for an experimental greenhouse with an application to fault accommodation
+paper downloaded
+
+222 . Classification and comparison of license plates localization algorithms
+paper downloaded
+
+223 . Mulberry Leaf Yield Prediction Using Machine Learning Techniques
+paper downloaded
+
+224 . Application of Stochastic Optimization Techniques to the Unit Commitment Problem -- A Review
+paper downloaded
+
+225 . Development of a Soft Actor Critic Deep Reinforcement Learning Approach for Harnessing Energy Flexibility in a Large Office Building
+paper downloaded
+
+226 . Research Agenda in Intelligent Infrastructure to Enhance Disaster Management, Community Resilience and Public Safety
+paper downloaded
+
+227 . Five or six step scenario for evolution?
+paper downloaded
+
+228 . Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams
+paper downloaded
+
+229 . Introduction: Detectability of Future Earth
+paper downloaded
+
+230 . Automating Turbulence Modeling by Multi-Agent Reinforcement Learning
+paper downloaded
+
+231 . Understanding occupants' behaviour, engagement, emotion, and comfort indoors with heterogeneous sensors and wearables
+paper downloaded
+
+232 . Context-Aware Environment Monitoring to Support LPWAN-based Battlefield Applications
+paper downloaded
+
+233 . Nimble@ITCEcnoGrid: A Grid in Research Domain for Weather Forecasting
+paper downloaded
+
+234 . Design optimisation of a multi-mode wave energy converter
+paper downloaded

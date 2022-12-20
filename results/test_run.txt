@@ -1,0 +1,40 @@
+[INFO]9:1:28 Entering the Cleaner module
+[INFO]9:1:28 Converting text to list
+[INFO]9:1:28 Converted text to list
+[INFO]9:1:28 Generating list with special elements for weeding out later
+[INFO]9:1:28 Generated list with special elements for weeding out later
+[INFO]9:1:28 Removing elements with special characters from the text list
+[INFO]9:3:34 Removed elements with special characters from the text list
+[INFO]9:3:34 Dumping the cleaned abstract .txt to the disc
+[INFO]9:3:34 Dumped the cleaned abstract .txt to the disc
+[INFO]9:3:34 Exiting the Cleaner module
+[INFO]9:5:32 Entered the Analyzer.py code.
+[INFO]9:5:32 Carrying out pre-processing functions for analyzer
+[INFO]9:5:32 Carried out pre-processing functions for analyzer
+[INFO]9:5:32 Copying data from ./LOGS/log/abstracts_CLEANED.txt to pandas dataframe
+[INFO]9:5:32 Cleaning the list of words generated
+[INFO]9:5:33 Cleaned the list of words generated
+[INFO]9:5:40 Copied data from ./LOGS/log/abstracts_CLEANED.txt to pandas dataframe
+[INFO]9:5:40 Copying data from pandas dataframe to ./LOGS/log/abstracts_CLEANED_FREQUENCY_CSV_DATA.csv
+[INFO]9:5:40 Copied data from pandas dataframe to ./LOGS/log/abstracts_CLEANED_FREQUENCY_CSV_DATA.csv
+[INFO]9:5:40 Exiting the Analyzer.py code.
+[INFO]9:7:28 Initiating the NLP Engine
+[INFO]9:7:28 ./LOGS/log/abstracts_CLEANED.txt.txt is being ported to dataframe
+[INFO]9:7:28 ./LOGS/log/abstracts_CLEANED.txt.txt has been ported to dataframe
+[INFO]9:7:28 Trimming data and preparing list of words
+[INFO]9:7:28 Trimmed data and prepared list of words
+[INFO]9:7:28 Removing stopwords
+[INFO]9:7:31 Generating bigrams
+[INFO]9:7:31 Generating word bigrams
+[INFO]9:7:32 Generated word bigrams
+[INFO]9:7:33 Beginning lemmatization
+[INFO]9:8:21 Ending lemmatization
+[INFO]9:8:22 Generating the LDA model using default parameter set
+[INFO]9:8:49 Generated the LDA model using default parameter set
+[INFO]9:8:51 Issued perplexity: -8.27835797314276
+[INFO]9:8:51 Idling the NLP Engine
+[INFO]9:8:51 Entering the visualizer_main() code
+[INFO]9:8:51 Preparing the topic modeling visualization
+[INFO]9:8:55 Preparing the frequency and weights vs keywords charts
+[INFO]9:8:59 Prepared the frequency and weights vs keywords charts
+[INFO]9:8:59 Exiting the visualizer_main() code
