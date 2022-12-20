@@ -1,0 +1,1127 @@
+1 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/archives-ouvertes.fr/Aligning_artificial_intelligence_with_climate_change_mitigation.pdf
+
+2 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/yale.edu/Artificial_intelligence_and_climate_change.pdf
+
+3 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/github.io/Artificial_intelligence_for_climate_change_adaptation.pdf
+
+4 --> Error: https://www.researchgate.net/profile/Vahe-Vardanyan/publication/348498229_Using_Artificial_Intelligence_to_Visualize_the_Impacts_of_Climate_Change/links/6013f8a945851517ef22ed14/Using-Artificial-Intelligence-to-Visualize-the-Impacts-of-Climate-Change.pdf
+
+5 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ox.ac.uk/Artificial_Intelligence_Climate_Change_Supplementary_Impact_Report.pdf
+
+6 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Quantum_artificial_intelligence_for_the_science_of_climate_change.pdf
+
+7 --> Error: https://www.mdpi.com/2076-3298/5/3/34/pdf
+
+8 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ibpsa.org/Campus_energy_use_prediction_CEUP_using_artificial_intelligence_AI_to_study_climate_change_impacts.pdf
+
+9 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/archives-ouvertes.fr/Artificial_intelligence_machine_learning_and_modeling_for_understanding_the_oceans_and_climate_change.pdf
+
+10 --> Error: https://www.researchgate.net/profile/Miguel-Araujo-3/publication/6830398_How_Does_Climate_Change_Affect_Biodiversity/links/0912f501ed8789215c000000/How-Does-Climate-Change-Affect-Biodiversity.pdf
+
+11 --> Error: https://iecscience.org/uploads/jpapers/202006/R43aPUT8OSVESnslDQLlp9DpgQz272bAh5FiH9a2.pdf
+
+12 --> Error: https://onlinelibrary.wiley.com/doi/pdf/10.1002/mar.21735
+
+13 --> Error: https://journals.sagepub.com/doi/pdf/10.1177/2043886920961782
+
+14 --> Error: https://www.academia.edu/download/65929102/2020_Lahsen_AI_Sust_ieee_wCover.pdf
+
+15 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/tony-silva.com/Artificial_intelligence_and_the_future_of_humans.pdf
+
+16 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/preprints.org/Deep_learning_and_machine_learning_in_hydrological_processes_climate_change_and_earth_systems_a_systematic_review.pdf
+
+17 --> Error: https://www.mdpi.com/2072-4292/13/16/3209/pdf
+
+18 --> Error: https://par.nsf.gov/servlets/purl/10111432
+
+19 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uu.nl/The_World_s_Most_Dangerous_Idea_Transhumanism_in_the_Age_of_Artificial_Intelligence_Climate_Change_and_Existential_Risk_Some_Comments_on_Stefan_Lorenz.pdf
+
+20 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/osf.io/Susceptibility_to_misinformation_a_study_of_climate_change_Covid_19_and_artificial_intelligence.pdf
+
+21 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Will_artificial_intelligence_supersede_earth_system_and_climate_models.pdf
+
+22 --> Error: http://dirpub.org/images/proceedings_pdf/DIRH0617017.pdf
+
+23 --> Error: https://www.mdpi.com/2504-2289/5/4/55/pdf
+
+24 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/grassrootsjournals.org/The_Potential_Role_of_the_Artificial_Intelligence_in_Combating_Climate_Change_and_Natural_Resources_Management_Political_Legal_and_Ethical_Challenges.pdf
+
+25 --> Error: https://www.academia.edu/download/41570513/Application_of_artificial_neural_network20160125-13858-oqchnm.pdf
+
+26 --> Error: https://www.academia.edu/download/37119735/Cooke-Messaging_Climate_uncertainty.pdf
+
+27 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scihumanit.com/Artificial_Intelligence_for_the_Sustainability_of_Climate_Change.pdf
+
+28 --> Error: https://www.mdpi.com/2072-6651/14/8/574/pdf
+
+29 --> Error: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0091
+
+30 --> Error: https://www.researchgate.net/profile/Samrat-Ray/publication/361568484_Using_Machine_Learning_and_Data_Mining_to_Evaluate_Modern_Financial_Management_Techniques/links/62c57f9334fb7352793940b7/Using-Machine-Learning-and-Data-Mining-to-Evaluate-Modern-Financial-Management-Techniques.pdf#page=442
+
+31 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/fardapaper.ir/On_big_data_artificial_intelligence_and_smart_cities.pdf
+
+32 --> Error: https://www.mdpi.com/2073-4395/10/8/1120/pdf
+
+33 --> Error: https://www.mdpi.com/2071-1050/12/8/3223/pdf
+
+34 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/springer.com/Use_and_Impact_of_Artificial_Intelligence_on_Climate_Change_Adaptation_in_Africa.pdf
+
+35 --> Error: https://www.mdpi.com/1422-0067/23/19/11156/pdf
+
+36 --> Error: http://www.scielo.org.co/pdf/dyna/v85n204/0012-7353-dyna-85-204-00194.pdf
+
+37 --> Error: https://www.academia.edu/download/83791881/ijatcse041122022.pdf
+
+38 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Machine_learning_methods_for_crop_yield_prediction_and_climate_change_impact_assessment_in_agriculture.pdf
+
+39 --> Error: https://www.mdpi.com/2073-4441/11/8/1588/pdf
+
+40 --> Error: https://www.sciencedirect.com/science/article/am/pii/S0167779919301143
+
+41 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/yale.edu/Artificial_intelligence_American_attitudes_and_trends.pdf
+
+42 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017WR020482
+
+43 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/northumbria.ac.uk/Tackling_climate_change_with_blockchain.pdf
+
+44 --> Error: https://www.mdpi.com/2504-2289/3/1/12/pdf
+
+45 --> Error: https://www.researchgate.net/profile/Mostafa-Ismail-4/publication/345258558_2020_Book_ArchitectureAndUrbanismASmartOpdf/data/5fa1bb05458515b7cfb65115/2020-Book-ArchitectureAndUrbanismASmartO.pdf#page=483
+
+46 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/whiterose.ac.uk/A_topography_of_climate_change_research.pdf
+
+47 --> Error: https://www.researchgate.net/profile/Jurate-De-Prins/publication/358923902_Editorial_Two_urgent_topics_climate_change_and_biodiversity_loss/links/621dfccf2542ea3cacbaab85/Editorial-Two-urgent-topics-climate-change-and-biodiversity-loss.pdf
+
+48 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/irjmets.com/ROLE_OF_ARTIFICIAL_INTELLIGENCE_IN_TACKLING_CLIMATE_CHANGE.pdf
+
+49 --> Error: https://www.researchgate.net/profile/Alireza-Moazzeni/publication/275221010_Artificial_Intelligence_for_Lithology_Identification_through_Real-Time_Drilling_Data/links/58084f5308ae5ed04bfe83bc/Artificial-Intelligence-for-Lithology-Identification-through-Real-Time-Drilling-Data.pdf
+
+50 --> Error: https://www.researchgate.net/profile/Kingsley-Ukhurebor/publication/341051255_Climate_Change_and_Innovation_Technology_A_Review/links/5eb90c0c4585152169c58724/Climate-Change-and-Innovation-Technology-A-Review.pdf
+
+51 --> Error: https://www.researchgate.net/profile/Cruz-Borges/publication/305685332_Regression_Based_Emission_Models_for_Vehicle_Contribution_to_Climate_Change/links/5b5b25090f7e9bc79a67fb5d/Regression-Based-Emission-Models-for-Vehicle-Contribution-to-Climate-Change.pdf
+
+52 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/lqdtu.edu.vn/Wireless_sensor_networks_and_machine_learning_meet_climate_change_prediction.pdf
+
+53 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/infinitoteatrodelcosmo.it/The_application_of_machine_learning_for_evaluating_anthropogenic_versus_natural_climate_change.pdf
+
+54 --> Error: https://www.mdpi.com/2076-2615/11/10/2833/pdf
+
+55 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/colostate.edu/An_AI_approach_to_determining_the_time_of_emergence_of_climate_change.pdf
+
+56 --> Error: https://www.researchgate.net/profile/Rohit-Rastogi-4/publication/354540565_Computing_Analysis_of_Yajna_and_Mantra_Chanting_as_a_Therapy_A_Holistic_Approach_for_All_by_Indian_Continent_Amidst_Pandemic_Threats/links/614b06223c6cb31069845190/Computing-Analysis-of-Yajna-and-Mantra-Chanting-as-a-Therapy-A-Holistic-Approach-for-All-by-Indian-Continent-Amidst-Pandemic-Threats.pdf
+
+57 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/indiaenvironmentportal.org.in/Achieving_robust_science_based_measurement_reporting_and_certification_of_carbon_emissions_through_artificial_intelligence_and_machine_learning.pdf
+
+58 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/google.com/Artificial_intelligence_policy_a_primer_and_roadmap.pdf
+
+59 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/preprints.org/Perspectives_on_Applying_Artificial_Intelligence_to_Model_Outbreak_Risk_Contextualizing_the_Impact_of_Climate_Change_on_Vector_borne_Disease.pdf
+
+60 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/internationalrasd.org/Artificial_Intelligence_Machine_Learning_and_Modelling_for_Understanding_the_Oceans_and_Climate_Change.pdf
+
+61 --> Error: https://www.researchgate.net/profile/Babak-Ghazi/publication/348547656_Predicting_groundwater_level_fluctuations_under_climate_change_scenarios_for_Tasuj_plain_Iran/links/6015579945851517ef273795/Predicting-groundwater-level-fluctuations-under-climate-change-scenarios-for-Tasuj-plain-Iran.pdf
+
+62 --> Error: https://www.mdpi.com/2071-1050/12/5/1893/pdf
+
+63 --> Error: http://igmpublication.com/ijetst.in/index.php/ijetst/article/download/1562/1265
+
+64 --> Error: https://www.academia.edu/download/75406375/a_3A100535821636120211130-24845-8g5x6s.pdf
+
+65 --> Error: https://www.researchgate.net/profile/Sigfredo-Fuentes/publication/351038570_How_artificial_intelligence_AI_is_helping_winegrowers_to_deal_with_adversity_from_climate_change/links/6247014421077329f2e836b2/How-artificial-intelligence-AI-is-helping-winegrowers-to-deal-with-adversity-from-climate-change.pdf
+
+66 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/google.com/The_climate_change_Twitter_dataset.pdf
+
+67 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/climatechange.ai/Artificial_Intelligence_Machine_Learning_and_Modeling_for_Understanding_the_Oceans_and_Climate_Change.pdf
+
+68 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/rug.nl/Will_democracy_survive_big_data_and_artificial_intelligence.pdf
+
+69 --> Error: https://onlinelibrary.wiley.com/doi/pdf/10.1111/all.15079
+
+70 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/semanticscholar.org/Applications_of_artificial_intelligence_in_agriculture_A_review.pdf
+
+71 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ciip-group.org/Artificial_Intelligence_AI_is_Becoming_a_Powerful_Tool_to_Combat_Climate_Change.pdf
+
+72 --> Error: https://www.mdpi.com/2073-4441/11/2/374/pdf
+
+73 --> Error: https://www.mdpi.com/2071-1050/14/5/2601/pdf
+
+74 --> Error: https://www.researchgate.net/profile/Vikas-Poonia-4/publication/348363962_A_novel_framework_for_risk_assessment_and_resilience_of_critical_infrastructure_towards_climate_change/links/5ffa94c145851553a0330acb/A-novel-framework-for-risk-assessment-and-resilience-of-critical-infrastructure-towards-climate-change.pdf
+
+75 --> Error: https://www.researchgate.net/profile/Francesca-Intini/publication/228802516_A_model_of_Artificial_Neural_Network_for_the_analysis_of_climate_change/links/0fcfd50afd7b831902000000/A-model-of-Artificial-Neural-Network-for-the-analysis-of-climate-change.pdf
+
+76 --> Error: https://www.mdpi.com/2075-5309/10/8/139/pdf
+
+77 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/AutoML_for_Climate_Change_A_Call_to_Action.pdf
+
+78 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Remote_sensing_AI_and_innovative_prediction_methods_for_adapting_cities_to_the_impacts_of_the_climate_change.pdf
+
+79 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021GL093787
+
+80 --> Error: https://www.mdpi.com/2227-9032/9/1/86/pdf
+
+81 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/qmul.ac.uk/Dynamic_shift_from_cloud_computing_to_industry_4_0_Eco_friendly_choice_or_climate_change_threat.pdf
+
+82 --> Error: https://www.researchgate.net/profile/Mark-Klein-3/publication/228139817_Can_We_Exploit_Collective_Intelligence_for_Collaborative_Deliberation_The_Case_of_the_Climate_Change_Collaboratorium/links/61b802c163bbd932428fe5d7/Can-We-Exploit-Collective-Intelligence-for-Collaborative-Deliberation-The-Case-of-the-Climate-Change-Collaboratorium.pdf
+
+83 --> Error: https://www.researchgate.net/profile/Patrick-Camilleri/publication/326432130_Book_Review_Robot-proof_higher_education_in_the_age_of_artificial_intelligence/links/5ff6c73545851553a026d28f/Book-Review-Robot-proof-higher-education-in-the-age-of-artificial-intelligence.pdf
+
+84 --> Error: https://www.mdpi.com/2073-4441/11/7/1492/pdf
+
+85 --> Error: https://www.researchgate.net/profile/Muhammad-Khalid-121/publication/338526872_Identifying_Intrusions_in_Dynamic_Environments_Using_Semantic_Trajectories_and_BIM_for_Worker_Safety/links/6321c473873eca0c0088963c/Identifying-Intrusions-in-Dynamic-Environments-Using-Semantic-Trajectories-and-BIM-for-Worker-Safety.pdf#page=382
+
+86 --> Error: https://www.researchgate.net/profile/Luigi-Ceccaroni/publication/220204701_Artificial_Intelligence_and_Environmental_Decision_Support_Systems/links/0912f50bfb7e6c6fa3000000/Artificial-Intelligence-and-Environmental-Decision-Support-Systems.pdf
+
+87 --> Error: https://www.mdpi.com/1996-1073/13/6/1473/pdf
+
+88 --> Error: https://dl.acm.org/doi/pdf/10.1145/3433142
+
+89 --> Error: https://direct.mit.edu/isal/proceedings-pdf/isal/33/16/1929931/isal_a_00384.pdf
+
+90 --> Error: https://www.researchgate.net/profile/Ayyoob-Sharifi/publication/359469973_Applications_of_machine_learning_and_deep_learning_methods_for_climate_change_mitigation_and_adaptation/links/62e9acb69d410c5ff37ef236/Applications-of-machine-learning-and-deep-learning-methods-for-climate-change-mitigation-and-adaptation.pdf
+
+91 --> Error: https://www.mdpi.com/2075-5309/12/2/108/pdf
+
+92 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ieee.org/Study_of_Climate_Change_Detection_in_North_East_Africa_Using_Machine_Learning_and_Satellite_Data.pdf
+
+93 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/utp.edu.my/Application_of_artificial_intelligence_methods_for_hybrid_energy_system_optimization.pdf
+
+94 --> Error: https://www.researchgate.net/profile/Gary-Johnson-14/publication/228342331_ARIES_ARtificial_Intelligence_for_Ecosystem_Services_A_new_tool_for_ecosystem_services_assessment_planning_and_valuation/links/02e7e53b2e0742e75e000000/ARIES-ARtificial-Intelligence-for-Ecosystem-Services-A-new-tool-for-ecosystem-services-assessment-planning-and-valuation.pdf
+
+95 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Prediction_of_coastal_flooding_risk_under_climate_change_impacts_in_South_Korea_using_machine_learning_algorithms.pdf
+
+96 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/agile2s.com/Life_3_0_Being_human_in_the_age_of_artificial_intelligence.pdf
+
+97 --> Error: https://www.academia.edu/download/46075218/Future_projections_for_Mexican_faunas_un20160530-17882-1ndmcb3.pdf
+
+98 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Smart_sustainable_agriculture_SSA_solution_underpinned_by_internet_of_things_IoT_and_artificial_intelligence_AI.pdf
+
+99 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Artificial_intelligence_and_its_role_in_near_future.pdf
+
+100 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/currentscience.ac.in/Artificial_intelligence_and_machine_learning_in_earth_system_sciences_with_special_reference_to_climate_science_and_meteorology_in_South_Asia.pdf
+
+101 --> Error: https://www.researchgate.net/profile/Amir-Mosavi-3/publication/327213120_CLIMATE_CHANGE_PREDICTION_STATE_OF_THE_ART_AND_CLASSIFICATION_OF_ARTIFICIAL_INTELLIGENCE_METHODS/links/5be18ba092851c6b27aa5bef/CLIMATE-CHANGE-PREDICTION-STATE-OF-THE-ART-AND-CLASSIFICATION-OF-ARTIFICIAL-INTELLIGENCE-METHODS.pdf
+
+102 --> Error: https://www.mdpi.com/2073-4441/11/5/973/pdf
+
+103 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/dergipark.org.tr/An_Updated_Consumer_Decision_making_Model_to_Tackle_Climate_Change.pdf
+
+104 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/inria.fr/This_changes_everything_ICT_and_climate_change_what_can_we_do.pdf
+
+105 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cjsjournal.org/DeepWaste_Instantaneous_and_Ubiquitous_Waste_Classification_using_Artificial_Intelligence_for_Combating_Climate_Change.pdf
+
+106 --> Error: https://law.stanford.edu/wp-content/uploads/2019/08/Re-Solow-Niederman_20190808.pdf
+
+107 --> Error: https://www.academia.edu/download/65145890/Africa_Insight.pdf
+
+108 --> Error: https://www.sciencedirect.com/science/article/pii/S1877042815036137/pdf?md5=588c4a230c3bf3d4dc16a63d1fab936d&pid=1-s2.0-S1877042815036137-main.pdf&_valck=1
+
+109 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/oarklibrary.com/Application_of_Ambient_Intelligence_Technologies_to_Predict_the_Impact_of_Human_Behavior_on_Climate_Change_Tuei_K_Kirui.pdf
+
+110 --> Error: https://www.mdpi.com/1996-1073/14/12/3643/pdf
+
+111 --> Error: https://gaij.usb.ac.ir/article_4220_71cd8c41b7d04a9be8b0cc1aba17f159.pdf
+
+112 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/diva-portal.org/Intelligent_Road_Maintenance_in_Small_Island_Developing_States_Vulnerable_to_Climate_Change_Using_Artificial_Intelligence_to_Adapt_Communities_to_Climate_Change.pdf
+
+113 --> Error: https://www.researchgate.net/profile/Rehab-Rayan/publication/353096306_Internet_of_Things_for_Mitigating_Climate_Change_Impacts_on_Health/links/60ea65281c28af34585e71a2/Internet-of-Things-for-Mitigating-Climate-Change-Impacts-on-Health.pdf
+
+114 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iahr.org/INDEX_WITH_FUZZY_LOGIC_FROM_ARTIFICIAL_INTELLIGENCE_TO_EVALUATE_VULNERABILITY_TO_CLIMATE_CHANGE_IN_ANDEAN_TROPICAL.pdf
+
+115 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Toward_Foundation_Models_for_Earth_Monitoring_Proposal_for_a_Climate_Change_Benchmark.pdf
+
+116 --> Error: https://www.mdpi.com/2073-4441/12/7/1885/pdf
+
+117 --> Error: https://www.mdpi.com/2076-3263/11/1/25/pdf
+
+118 --> Error: https://www.cogitatiopress.com/politicsandgovernance/article/download/4903/4903
+
+119 --> Error: https://www.researchgate.net/profile/S_Madeh_Piryonesi2/publication/336014662_A_Machine-Learning_Solution_for_Quantifying_the_Impact_of_Climate_Change_on_Roads/links/5d90f7b6458515202b74882f/A-Machine-Learning-Solution-for-Quantifying-the-Impact-of-Climate-Change-on-Roads.pdf
+
+120 --> Error: https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/127/2015/01/Trusted-Innovation-Project-Executive-Summary.pdf
+
+121 --> Error: https://www.osti.gov/servlets/purl/1782577
+
+122 --> Error: https://www.mdpi.com/2223-7747/9/3/381/pdf
+
+123 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ieee.org/Computing_and_climate.pdf
+
+124 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/103.47.12.35/Introduction_to_artificial_intelligence.pdf
+
+125 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cuny.edu/Toward_informatics_enabled_preparedness_for_natural_hazards_to_minimize_health_impacts_of_climate_change.pdf
+
+126 --> Error: https://www.mdpi.com/2075-5309/12/8/1155/pdf
+
+127 --> Error: https://www.mdpi.com/2624-8921/4/3/38/pdf
+
+128 --> Error: https://www.researchgate.net/profile/Sharnil_Pandya3/publication/361000076_A_Retrospective_Study_of_Climate_Change_Affecting_Dengue_Evidences_Challenges_and_Future_Directions/links/62982ab7c660ab61f8597d14/A-Retrospective-Study-of-Climate-Change-Affecting-Dengue-Evidences-Challenges-and-Future-Directions.pdf
+
+129 --> Error: https://www.mdpi.com/2071-1050/14/5/2896/pdf
+
+130 --> Error: https://www.researchgate.net/profile/Assprof-Sayl/publication/283551606_Artificial_Intelligence_based_models_for_stream-flow_forecasting_2000-2015/links/5fbfe8eea6fdcc6cc66cc918/Artificial-Intelligence-based-models-for-stream-flow-forecasting-2000-2015.pdf
+
+131 --> Error: https://www.researchgate.net/profile/Assprof-Sayl/publication/283551606_Artificial_Intelligence_based_models_for_stream-flow_forecasting_2000-2015/links/5fbfe8eea6fdcc6cc66cc918/Artificial-Intelligence-based-models-for-stream-flow-forecasting-2000-2015.pdf
+
+132 --> Error: https://www.mdpi.com/2079-7737/11/9/1280/pdf
+
+133 --> Error: https://journals.sagepub.com/doi/pdf/10.1177/1042258719899425
+
+134 --> Error: https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/download/1644/2011
+
+135 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/smcm.edu/The_ethics_of_artificial_intelligence.pdf
+
+136 --> Error: https://www.mdpi.com/2227-9032/9/1/86/pdf?version=1611213643
+
+137 --> Error: https://www.mdpi.com/2220-9964/10/10/660/pdf
+
+138 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/archives-ouvertes.fr/Developing_a_Knowledge_Base_on_Climate_Change_for_Metropolitan_cities.pdf
+
+139 --> Error: https://www.mdpi.com/1424-8220/19/8/1807/pdf
+
+140 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/wmocimo.net/Improving_efficiency_and_quality_in_weather_observation_and_climate_monitoring_by_using_artificial_intelligence_and_Information_Communication_Technology_ICT.pdf
+
+141 --> Error: https://www.tandfonline.com/doi/pdf/10.1016/j.jtusci.2013.04.001
+
+142 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/duth.gr/Hybrid_soft_computing_for_atmospheric_pollution_climate_change_data_mining.pdf
+
+143 --> Error: https://www.researchgate.net/profile/Mohamed-Hachaichi/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale/links/6360e3f98d4484154a5296ba/Cities-Allocating-climate-change-responsibilities-at-planetary-scale.pdf
+
+144 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/vt.edu/A_systematic_global_stocktake_of_evidence_on_human_adaptation_to_climate_change.pdf
+
+145 --> Error: https://www.researchgate.net/profile/Adrian-Groza/publication/319007290_Climebot_An_argumentative_agent_for_climate_change/links/59e8e200a6fdccfe7fa0a089/Climebot-An-argumentative-agent-for-climate-change.pdf
+
+146 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/unibe.ch/Understanding_climate_change_with_statistical_downscaling_and_machine_learning.pdf
+
+147 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/degruyter.com/Regional_rainfall_forecasting_using_large_scale_climate_teleconnections_and_artificial_intelligence_techniques.pdf
+
+148 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/biorxiv.org/Plant_Breeding_in_the_face_of_climate_change.pdf
+
+149 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/10106049.2022.2088861
+
+150 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ox.ac.uk/Racing_to_the_precipice_a_model_of_artificial_intelligence_development.pdf
+
+151 --> Error: https://www.researchsquare.com/article/rs-603225/latest.pdf
+
+152 --> Error: https://www.researchgate.net/profile/Maria-Orgeira/publication/359781954_Statistical_analysis_of_the_connection_between_geomagnetic_field_reversal_a_supernova_and_climate_change_during_the_Plio-Pleistocene_transition/links/624ef603b0cee02d695878ac/Statistical-analysis-of-the-connection-between-geomagnetic-field-reversal-a-supernova-and-climate-change-during-the-Plio-Pleistocene-transition.pdf
+
+153 --> Error: https://www.mdpi.com/1999-4907/13/1/49/pdf
+
+154 --> Error: https://www.academia.edu/download/65692858/2020_Hulme_SGJ_..._Climate_change_forever.pdf
+
+155 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/lerachapters.org/Climate_Change_and_the_Future_of_Workers_Toward_a_Just_Transition.pdf
+
+156 --> Error: https://www.mdpi.com/2071-1050/13/18/10254/pdf
+
+157 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/psu.edu/Identifying_the_Links_Between_Climate_Change_and_Automation.pdf
+
+158 --> Error: https://www.mdpi.com/2071-1050/14/1/40/pdf
+
+159 --> Error: https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agj2.20693
+
+160 --> Error: https://www.mdpi.com/2073-4441/14/21/3495/pdf
+
+161 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ripublication.com/Study_of_climate_change_in_Bogota_using_Colombia_and_Global_Temperature_Data.pdf
+
+162 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Aim_in_Climate_Change_and_City_Pollution.pdf
+
+163 --> Error: https://www.mdpi.com/1660-4601/17/9/3176/pdf
+
+164 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/inria.fr/Assessing_physics_informed_neural_networks_in_ocean_modelling_and_climate_change_applications.pdf
+
+165 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ieee.org/Network_Engineering_versus_Climate_Change.pdf
+
+166 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Progress_in_climate_change_adaptation_research.pdf
+
+167 --> Error: https://www.mdpi.com/2225-1154/8/2/28/pdf
+
+168 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Climate_change_sensing_through_terahertz_communications_A_disruptive_application_of_6G_networks.pdf
+
+169 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ethz.ch/Applying_big_data_beyond_small_problems_in_climate_research.pdf
+
+170 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019WR025035
+
+171 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/turcomat.org/Prediction_of_climate_change_using_SVM_and_Naive_bayes_machine_learning_algorithms.pdf
+
+172 --> Error: https://www.mdpi.com/2073-4433/13/2/180/pdf
+
+173 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL084969
+
+174 --> Error: https://www.researchgate.net/profile/Dhanil-Dev/publication/361848655_Assessment_of_coastal_variations_due_to_climate_change_using_remote_sensing_and_machine_learning_techniques_A_case_study_from_west_coast_of_India/links/62f67ae8c6f6732999c68aa8/Assessment-of-coastal-variations-due-to-climate-change-using-remote-sensing-and-machine-learning-techniques-A-case-study-from-west-coast-of-India.pdf
+
+175 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uliege.be/Patent_strategies_for_the_21st_century_AI_blockchain_and_climate_change.pdf
+
+176 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scu.edu/Tracking_climate_change_opinions_from_twitter_data.pdf
+
+177 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uliege.be/Patent_strategies_for_the_21st_century_AI_blockchain_and_climate_change.pdf
+
+178 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scu.edu/Tracking_climate_change_opinions_from_twitter_data.pdf
+
+179 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/02626667.2018.1469757
+
+180 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/19475705.2021.1963328
+
+181 --> Error: https://www.mdpi.com/2076-3417/9/18/3859/pdf
+
+182 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019GL084944
+
+183 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/soton.ac.uk/Putting_the_smarts_into_the_smart_grid_a_grand_challenge_for_artificial_intelligence.pdf
+
+184 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/geomar.de/From_fAIrplay_to_climate_wars_making_climate_change_scenarios_more_dynamic_creative_and_integrative.pdf
+
+185 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Quantum_technologies_for_climate_change_Preliminary_assessment.pdf
+
+186 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/sgr.org.uk/An_alarmist_s_guide_to_climate_change.pdf
+
+187 --> Error: https://www.researchgate.net/profile/Sandeep-Kumar-282/publication/343006767_Resource_Conservation_Technologies_for_Climate_Change_Adaptation_and_Mitigation/links/5f114a51299bf1e548bd4816/Resource-Conservation-Technologies-for-Climate-Change-Adaptation-and-Mitigation.pdf
+
+188 --> Error: https://www.mdpi.com/1999-4907/11/8/880/pdf
+
+189 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uni-corvinus.hu/Modeling_the_Impacts_of_Climate_Change_on_Phytogeographical_Units_A_Case_Study_of_the_Moesz_Line.pdf
+
+190 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/The_Human_Effect_Requires_Affect_Addressing_Social_Psychological_Factors_of_Climate_Change_with_Machine_Learning.pdf
+
+191 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/icm.edu.pl/Nature_based_and_technology_based_solutions_for_sustainable_blue_growth_and_climate_change_mitigation_in_marine_biodiversity_hotspots.pdf
+
+192 --> Error: https://www.academia.edu/download/59516929/Emerging_Food_Technology20190604-16661-1ksyetk.pdf
+
+193 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Climate_Change_Computer_Audition_A_Call_to_Action_and_Overview_on_Audio_Intelligence_to_Help_Save_the_Planet.pdf
+
+194 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uvm.edu/Scientific_instruments_for_climate_change_adaptation_estimating_and_optimizing_the_efficiency_of_ecosystem_service_provision.pdf
+
+195 --> Error: https://www.mdpi.com/2077-0472/12/9/1473/pdf
+
+196 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/google.com/Using_boosted_tree_regression_and_artificial_neural_networks_to_forecast_upland_rice_yield_under_climate_change_in_Sahel.pdf
+
+197 --> Error: https://www.academia.edu/download/64161821/09%20Paper%2001052016%20IJCSIS%20Camera%20Ready%20pp76-83.pdf
+
+198 --> Error: https://www.osti.gov/servlets/purl/1769694
+
+199 --> Error: https://www.osti.gov/servlets/purl/1769694
+
+Created directory: iitgn.ac.in
+
+200 --> Error: https://library.iitgn.ac.in/documents/library_files/2021/12102021.pdf
+
+201 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Mapping_and_modeling_the_impact_of_climate_change_on_recreational_ecosystem_services_using_machine_learning_and_big_data.pdf
+
+202 --> Error: https://www.mdpi.com/2071-1050/14/11/6620/pdf?version=1653980856
+
+Created directory: smu.edu.sg
+
+203 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/smu.edu.sg/Digital_sustainability_and_its_implications_for_finance_and_climate_change.pdf
+
+204 --> Error: https://www.academia.edu/download/6242517/petal_em_2001.pdf
+
+205 --> Error: https://www.academia.edu/download/52814261/2016-_Bui_Dieu.pdf
+
+206 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Multi_agent_reinforcement_learning_and_human_social_factors_in_climate_change_mitigation.pdf
+
+207 --> Error: https://www.mdpi.com/2073-8994/12/1/139/pdf
+
+208 --> Error: https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcc.752
+
+209 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Planning_maize_hybrids_adaptation_to_future_climate_change_by_integrating_crop_modelling_with_machine_learning.pdf
+
+210 --> Error: https://www.researchgate.net/profile/Martin-Jones-11/publication/341287736_Expecting_the_unexpected_Improving_rural_health_in_the_era_of_bushfires_novel_coronavirus_and_climate_change/links/60e41df3458515d6fb02665f/Expecting-the-unexpected-Improving-rural-health-in-the-era-of-bushfires-novel-coronavirus-and-climate-change.pdf
+
+Created directory: riskope.com
+
+211 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/riskope.com/Using_artificial_intelligence_in_an_integrated_risk_management_programme_for_a_large_alpine_landslide.pdf
+
+212 --> Error: https://www.mdpi.com/2076-3417/12/21/10916/pdf
+
+Created directory: colorado.edu
+
+213 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/colorado.edu/A_knowledge_based_system_for_the_diagnosis_and_prediction_of_short_term_climatic_changes_in_the_North_Atlantic.pdf
+
+214 --> Error: https://www.mdpi.com/2071-1050/13/17/9720/pdf
+
+215 --> Error: https://www.academia.edu/download/65148619/Araus_and_Kefauver_Breeding_to_adapt_agriculture_to_climate_change_affordable_phenotyping_solutions.pdf
+
+Created directory: amazonaws.com
+
+216 --> Error: https://wellcomeopenresearch.s3.eu-west-1.amazonaws.com/manuscripts/20348/a99e9e04-e34b-4ce8-8b8e-fdfab2d44d45_17263_-_angela_mcbride_v3.pdf
+
+Created directory: ruc.edu.cn
+
+217 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ruc.edu.cn/How_will_climate_change_affect_the_peak_electricity_load_Evidence_from_China.pdf
+
+Created directory: iwaponline.com
+
+218 --> Error: https://iwaponline.com/jwcc/article-pdf/12/5/1910/923609/jwc0121910.pdf
+
+219 --> Error: https://dspace.mit.edu/bitstream/handle/1721.1/144647/ceylan_cceylan_sb-meche-2022-thesis.pdf?sequence=1&isAllowed=y
+
+220 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/aaai.org/Global_climate_model_tracking_using_geospatial_neighborhoods.pdf
+
+Created directory: aaqr.org
+
+221 --> Error: https://aaqr.org/articles/aaqr-21-11-covid2-0336.pdf
+
+222 --> Error: https://www.researchgate.net/profile/Stephen-Oloo-Ajwang-2/publication/362732924_Climate_Change_Adaptation_and_Mitigation_using_Information_and_Communication_Technology/links/62fc8501aa4b1206fab8c8f2/Climate-Change-Adaptation-and-Mitigation-using-Information-and-Communication-Technology.pdf
+
+223 --> Error: https://www.sciencedirect.com/science/article/pii/S0004370209001404/pdf?md5=5642e4a080a15af965c5afb3658a96ae&pid=1-s2.0-S0004370209001404-main.pdf
+
+Created directory: atlas-tjes.org
+
+224 --> Error: https://atlas-tjes.org/index.php/tjes/article/download/395/281
+
+Created directory: eartharxiv.org
+
+225 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/eartharxiv.org/A_Comprehensive_Review_of_Ontologies_in_the_Hydrology_Towards_Guiding_Next_Generation_Artificial_Intelligence_Applications.pdf
+
+226 --> Error: https://www.mdpi.com/1660-4601/17/10/3730/pdf?version=1590404852
+
+Created directory: ingentaconnect.com
+
+227 --> Error: https://www.ingentaconnect.com/contentone/sil/impact/2022/00002022/00000001/art00002?crawler=true&mimetype=application/pdf
+
+228 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Visualizing_the_consequences_of_climate_change_using_cycle_consistent_adversarial_networks.pdf
+
+Created directory: asme.org
+
+229 --> Error: https://asmedigitalcollection.asme.org/memagazineselect/article-pdf/142/04/36/6528350/me-2020-apr3.pdf
+
+230 --> Error: https://www.academia.edu/download/43258650/IJGW090201_ABUBAKAR.pdf
+
+Created directory: unam.mx
+
+231 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/unam.mx/The_impact_of_climate_change_on_birds.pdf
+
+232 --> Error: https://www.researchgate.net/profile/Drlatief-Ahmad/publication/327632227_Scenario_of_Crop_Production_in_Temperate_and_Cold_Arid_Region_with_Respect_to_Climate_Change/links/5c1363a64585157ac1c0c25f/Scenario-of-Crop-Production-in-Temperate-and-Cold-Arid-Region-with-Respect-to-Climate-Change.pdf#page=39
+
+233 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/internationalrasd.org/Climate_Change_Forecasting_Using_Machine_Learning_SARIMA_Model.pdf
+
+234 --> Error: https://www.researchgate.net/profile/Jie-Shi-13/publication/328846130_Impacts_of_Climate_Change_and_Socioeconomic_Development_on_Electric_Load_in_California_31st_Australasian_Joint_Conference_Wellington_New_Zealand_December_11-14_2018_Proceedings/links/5db7819092851c81801152be/Impacts-of-Climate-Change-and-Socioeconomic-Development-on-Electric-Load-in-California-31st-Australasian-Joint-Conference-Wellington-New-Zealand-December-11-14-2018-Proceedings.pdf
+
+Created directory: uow.edu.au
+
+235 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uow.edu.au/Carbon_centric_computing_IT_solutions_for_climate_change.pdf
+
+236 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/23311916.2022.2119537
+
+237 --> Error: https://www.academia.edu/download/57082639/JHydroinformatics8.pdf
+
+Created directory: fnac-static.com
+
+238 --> Error: https://static.fnac-static.com/multimedia/PT/pdf/9780141987507.pdf
+
+239 --> Error: https://www.researchgate.net/profile/Ahmed-Elbeltagi-2/post/What-are-the-best-strategies-to-achieve-a-sustainable-integrated-water-resources-management-for-a-country-which-suffers-from-water-shortage-problem/attachment/5f22e994ed60840001c48fb1/AS%3A919022891724802%401596123540548/download/Climate+change.pdf
+
+240 --> Error: https://www.osti.gov/servlets/purl/1769734
+
+Created directory: medrxiv.org
+
+241 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/medrxiv.org/Artificial_Intelligence_Predicts_and_Explains_West_Nile_Virus_Risks_Across_Europe_Extraordinary_Outbreaks_Determined_by_Climate_and_Local_Factors.pdf
+
+Created directory: jree.ir
+
+242 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/jree.ir/Prediction_of_Discharge_Using_Artificial_Neural_Network_and_IHACRES_Models_Due_to_Climate_Change.pdf
+
+Created directory: epj-conferences.org
+
+243 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/epj-conferences.org/The_challenge_of_discussing_energy_facts_and_climate_change.pdf
+
+Created directory: foresighttransitions.co.uk
+
+244 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/foresighttransitions.co.uk/Using_futures_analysis_to_develop_resilient_climate_change_mitigation_strategies.pdf
+
+245 --> Error: https://www.academia.edu/download/64419473/16CTN-7785-RITRWP2019-2-5.pdf
+
+246 --> Error: https://www.mdpi.com/2073-4433/11/5/449/pdf
+
+247 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/diva-portal.org/AI_in_disasters_and_crises_from_corona_to_climate_change.pdf
+
+248 --> Error: https://par.nsf.gov/servlets/purl/10165266
+
+249 --> Error: https://www.researchsquare.com/article/rs-783398/latest.pdf
+
+Created directory: academicjournals.org
+
+250 --> Error: https://academicjournals.org/journal/AJAR/article-full-text-pdf/F5A965C55861
+
+251 --> Error: https://www.researchgate.net/profile/Martin-Montes-Rivera/publication/353215957_Diagnosis_of_Collateral_Effects_in_Climate_Change_Through_the_Identification_of_Leaf_Damage_Using_a_Novel_Heuristics_and_Machine_Learning_Framework/links/62a0e93dc660ab61f86cba44/Diagnosis-of-Collateral-Effects-in-Climate-Change-Through-the-Identification-of-Leaf-Damage-Using-a-Novel-Heuristics-and-Machine-Learning-Framework.pdf
+
+Created directory: demelo.org
+
+252 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/demelo.org/Hydroinformatics_and_the_web_Analytics_and_dissemination_of_hydrology_data_for_climate_change_and_sustainability.pdf
+
+253 --> Error: https://www.researchgate.net/profile/Hao-Dong/publication/357085933_Carbon_spot_prices_in_equilibrium_frameworks_associated_with_climate_change/links/61bff8174b318a6970f39344/Carbon-spot-prices-in-equilibrium-frameworks-associated-with-climate-change.pdf
+
+Created directory: oekologisches-wirtschaften.de
+
+254 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/oekologisches-wirtschaften.de/Artificial_Intelligence_for_Environmental_and_Climate_Protection.pdf
+
+255 --> Error: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0083
+
+Created directory: ekb.eg
+
+256 --> Error: https://ijaiet.journals.ekb.eg/article_258297_044a763dc85c8354a38cb3705aaa07a5.pdf
+
+257 --> Error: https://www.academia.edu/download/39833057/Effects_of_climate_change_on_the_distrib20151109-1805-sp7s2e.pdf
+
+258 --> Error: https://www.researchgate.net/profile/Steve-Mounce/publication/221936175_Development_and_Verification_of_an_Online_Artificial_Intelligence_System_for_Detection_of_Bursts_and_Other_Abnormal_Flows/links/5c8b71db45851564fade659d/Development-and-Verification-of-an-Online-Artificial-Intelligence-System-for-Detection-of-Bursts-and-Other-Abnormal-Flows.pdf
+
+Created directory: f-static.com
+
+259 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/f-static.com/Climate_change_and_Marx_in_the_twenty_first_century_part_II.pdf
+
+260 --> Error: https://www.academia.edu/download/61299957/Technological_Revolution__Democratic_Recession_and_Climate_Change_The_Limits_of_Law_in_a_Changing_World20191122-79953-15k57lp.pdf
+
+261 --> Error: https://www.osti.gov/servlets/purl/1808288
+
+262 --> Error: https://www.researchgate.net/profile/Louis-Iverson/publication/284410648_New_machine_learning_tools_for_predictive_vegetation_mapping_after_climate_change_Bagging_and_Random_Forest_perform_better_than_regression_tree_analysis/links/565c593e08aeafc2aac7060e/New-machine-learning-tools-for-predictive-vegetation-mapping-after-climate-change-Bagging-and-Random-Forest-perform-better-than-regression-tree-analysis.pdf
+
+263 --> Error: https://www.academia.edu/download/56076684/Paddy-ANN_ANFIS.pdf
+
+264 --> Error: https://www.mdpi.com/2071-1050/12/2/492/pdf
+
+Created directory: uit.no
+
+265 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uit.no/Do_investors_care_about_disclosed_climate_change_risk.pdf
+
+266 --> Error: https://www.academia.edu/download/66258374/letter20210413-19971-je5o5s.pdf
+
+267 --> Error: https://www.academia.edu/download/54080212/BCRRA_Qia_et_al._2017.pdf
+
+268 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/whiterose.ac.uk/Digital_Climate_Solutions_How_emerging_enterprises_are_responding_to_Climate_Change_and_delivering_value_to_customers_and_the_planet.pdf
+
+269 --> Error: https://www.currentscience.ac.in/data/forthcoming/397.pdf
+
+270 --> Error: https://www.mdpi.com/1999-4907/13/11/1816/pdf
+
+271 --> Error: https://www.academia.edu/download/54080212/BCRRA_Qia_et_al._2017.pdf
+
+272 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/whiterose.ac.uk/Digital_Climate_Solutions_How_emerging_enterprises_are_responding_to_Climate_Change_and_delivering_value_to_customers_and_the_planet.pdf
+
+273 --> Error: https://www.currentscience.ac.in/data/forthcoming/397.pdf
+
+274 --> Error: https://www.mdpi.com/1999-4907/13/11/1816/pdf
+
+275 --> Error: https://www.researchgate.net/profile/Felix-Nahrstedt/publication/360075408_A_Review_of_Intelligent_Decision_Support_Systems_in_Climate_Change_Adaptation/links/62604db3ee24725b3eb88613/A-Review-of-Intelligent-Decision-Support-Systems-in-Climate-Change-Adaptation.pdf
+
+276 --> Error: https://www.researchgate.net/profile/Phillimon-Odirile/publication/273446138_Implications_of_climate_change_on_water_resources_of_Botswana/links/550190cb0cf231de076a4a3a/Implications-of-climate-change-on-water-resources-of-Botswana.pdf
+
+277 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/dergipark.org.tr/GREEN_BONDS_IN_CLIMATE_FINANCE_AND_FORECASTING_OF_CORPORATE_GREEN_BOND_INDEX_VALUE_WITH_ARTIFICIAL_INTELLIGENCE.pdf
+
+278 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ieee.org/Peeking_inside_the_black_box_a_survey_on_explainable_artificial_intelligence_XAI.pdf
+
+Created directory: liebertpub.com
+
+279 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/liebertpub.com/Climate_Change_Holism_Evolution_and_Collective_Intelligence.pdf
+
+Created directory: nber.org
+
+280 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/nber.org/Artificial_intelligence_and_its_implications_for_income_distribution_and_unemployment.pdf
+
+281 --> Error: https://www.researchgate.net/profile/Santosh-Kodgire/publication/335610106_Commitment_for_a_Cleaner_India_Utilization_of_CO2_and_Sewage_Wastewater_by_Green_Algae_Scenedesmus_sp_Under_Laboratory_Conditions/links/5de77f55a6fdcc28370397b7/Commitment-for-a-Cleaner-India-Utilization-of-CO2-and-Sewage-Wastewater-by-Green-Algae-Scenedesmus-sp-Under-Laboratory-Conditions.pdf
+
+Created directory: ecgi.global
+
+282 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ecgi.global/Firm_level_climate_change_exposure.pdf
+
+283 --> Error: https://www.researchgate.net/profile/W-Mackenzie/publication/345634719_An_ecological_approach_to_climate_change-informed_tree_species_selection_for_reforestation/links/5fa9975792851cc286a09451/An-ecological-approach-to-climate-change-informed-tree-species-selection-for-reforestation.pdf
+
+284 --> Error: https://www.mdpi.com/2072-4292/14/7/1556/pdf
+
+Created directory: wur.nl
+
+285 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/wur.nl/Adapting_to_extremes_Key_insights_for_bridging_climate_change_adaptation_and_disaster_risk_reduction_in_the_European_Green_Deal.pdf
+
+286 --> Error: https://www.researchsquare.com/article/rs-1152592/latest.pdf
+
+287 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iop.org/Information_and_communication_technologies_in_environmental_monitoring_of_climate_change.pdf
+
+288 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2015.1004612
+
+Created directory: embrapa.br
+
+289 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/embrapa.br/National_policies_plans_and_strategies_to_fight_climate_change.pdf
+
+Created directory: snu.ac.kr
+
+290 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/snu.ac.kr/Development_of_Artificial_Intelligence_based_Climate_Control_System_for_Smart_Greenhouse.pdf
+
+291 --> Error: https://www.researchgate.net/profile/Mohammad-Yasir-Essar-2/publication/349402992_Using_telemedicine_for_a_lower_carbon_footprint_in_healthcare_A_twofold_tale_of_healing/links/6034633592851c4ed58df850/Using-telemedicine-for-a-lower-carbon-footprint-in-healthcare-A-twofold-tale-of-healing.pdf
+
+292 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/osf.io/Using_Machine_Learning_to_Analyze_Climate_Change_Technology_Transfer_CCTT.pdf
+
+Created directory: unit.no
+
+293 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/unit.no/SDG13_Understanding_Citizens_Perspective_Regarding_Climate_Change_on_Twitter.pdf
+
+Created directory: mindrxiv.org
+
+294 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/mindrxiv.org/The_Covid_19_pandemic_political_polarisation_climate_change_and_the_useless_class_Why_fostering_wellbeing_capacities_should_be_part_of_the_solution.pdf
+
+295 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/preprints.org/Agricultural_Big_Data_Architectures_in_the_Context_of_Climate_Change_A_Systematic_Literature_Review.pdf
+
+296 --> Error: https://www.academia.edu/download/53214523/K._Januszkiewicz___N._Paszkowska_GO_GREEN_2016-2.pdf
+
+Created directory: scielo.br
+
+297 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scielo.br/Forest_yield_prediction_under_different_climate_change_scenarios_using_data_intelligent_models_in_Pakistan.pdf
+
+Created directory: upc.edu
+
+298 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/upc.edu/Helping_decision_makers_manage_resilience_under_different_climate_change_scenarios_global_vs_local.pdf
+
+299 --> Error: https://www.researchgate.net/profile/Om-Araz/publication/339938737_Data_Analytics_for_Operational_Risk_Management/links/5e9379fa4585150839d958e3/Data-Analytics-for-Operational-Risk-Management.pdf
+
+300 --> Error: https://www.researchgate.net/profile/Kristina-Toderich/publication/350107068_13th_ICDD_Conference_proceedings_13th_International_Conference_on_Development_of_Dryland_Areas/links/6051b7a092851cd8ce486430/13th-ICDD-Conference-proceedings-13th-International-Conference-on-Development-of-Dryland-Areas.pdf#page=19
+
+301 --> Error: https://www.academia.edu/download/53214523/K._Januszkiewicz___N._Paszkowska_GO_GREEN_2016-2.pdf
+
+302 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scielo.br/Forest_yield_prediction_under_different_climate_change_scenarios_using_data_intelligent_models_in_Pakistan.pdf
+
+303 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/upc.edu/Helping_decision_makers_manage_resilience_under_different_climate_change_scenarios_global_vs_local.pdf
+
+304 --> Error: https://www.researchgate.net/profile/Om-Araz/publication/339938737_Data_Analytics_for_Operational_Risk_Management/links/5e9379fa4585150839d958e3/Data-Analytics-for-Operational-Risk-Management.pdf
+
+305 --> Error: https://www.researchgate.net/profile/Kristina-Toderich/publication/350107068_13th_ICDD_Conference_proceedings_13th_International_Conference_on_Development_of_Dryland_Areas/links/6051b7a092851cd8ce486430/13th-ICDD-Conference-proceedings-13th-International-Conference-on-Development-of-Dryland-Areas.pdf#page=19
+
+306 --> Error: https://www.researchsquare.com/article/rs-1184804/latest.pdf
+
+307 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/amazonaws.com/Machine_Intelligence_for_Floods_and_the_Built_Environment_under_Climate_Change.pdf
+
+308 --> Error: https://www.researchsquare.com/article/rs-2065765/latest.pdf
+
+309 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/springer.com/Gender_Implications_of_Farmers_Indigenous_Climate_Change_Adaptation_Strategies_Along_Agriculture_Value_Chain_in_Nigeria.pdf
+
+Created directory: ase.ro
+
+310 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ase.ro/International_experiences_on_the_implementation_of_public_policies_for_urban_planning_to_face_climate_change.pdf
+
+Created directory: core.ac.uk
+
+311 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/core.ac.uk/CLIMATE_CHANGE_AND_WATER_USE_IN_AGRICULTURE1.pdf
+
+312 --> Error: https://www.researchgate.net/profile/Cagla-Meral-Akgul/publication/360334091_Data-driven_long-term_prediction_of_building_performance_under_climate_change_Building_energy_demand_and_BIPV_energy_generation_analysis_across_Turkey/links/6270d7f9973bbb29cc5d4409/Data-driven-long-term-prediction-of-building-performance-under-climate-change-Building-energy-demand-and-BIPV-energy-generation-analysis-across-Turkey.pdf
+
+313 --> Error: https://www.researchgate.net/profile/Ola-Haug/publication/344819939_Aspects_of_Climate-Induced_Risk_in_Property_Insurance/links/617fa3123c987366c3105480/Aspects-of-Climate-Induced-Risk-in-Property-Insurance.pdf
+
+314 --> Error: https://www.researchgate.net/profile/Tagesse-Gichamo/publication/349693277_Ranking_of_Natural_Wastewater_Treatment_Techniques_by_Multi-criteria_Decision_Making_MCDM_Methods/links/60911637458515d315f5c886/Ranking-of-Natural-Wastewater-Treatment-Techniques-by-Multi-criteria-Decision-Making-MCDM-Methods.pdf#page=61
+
+315 --> Error: https://www.researchgate.net/profile/Sushmita-Thokchom/publication/364817038_Novel_and_Sustainable_Approaches_to_Combat_Climate_Change_in_the_Agriculture_Sector_A_Review/links/635b92886e0d367d91d3f022/Novel-and-Sustainable-Approaches-to-Combat-Climate-Change-in-the-Agriculture-Sector-A-Review.pdf
+
+316 --> Error: https://iwaponline.com/h2open/article-pdf/3/1/481/863216/h2oj0030481.pdf
+
+317 --> Error: https://www.researchgate.net/profile/Christian-Reynolds-2/publication/337069528_Technology_and_climate_change_A_review_of_STFC_Food_Network_projects_and_future_potential/links/5e413a13a6fdccd9659692b7/Technology-and-climate-change-A-review-of-STFC-Food-Network-projects-and-future-potential.pdf
+
+Created directory: cmdrcoe.org
+
+318 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cmdrcoe.org/THE_CLIMATE_CHANGE_CONFLICT_AND_MIGRATION_NEXUS_IN_THE_GLOBAL_SECURITY_CONTEXT.pdf
+
+319 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/github.io/Amplify_scientific_discovery_with_artificial_intelligence.pdf
+
+320 --> Error: https://www.researchgate.net/profile/Abdullah-O-Baarimah/publication/357812947_PVT_Properties_for_Yemeni_Reservoirs_Using_an_Intelligent_Approach/links/6265d13a8e6d637bd1fab32f/PVT-Properties-for-Yemeni-Reservoirs-Using-an-Intelligent-Approach.pdf
+
+Created directory: ukm.my
+
+321 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ukm.my/Public_Perceptions_on_Climate_Change_A_Sentiment_Analysis_Approach.pdf
+
+322 --> Error: https://www.researchgate.net/profile/Ashwani-Varshney-3/publication/355799784_Intensity_quantification_of_public_opinion_and_emotion_analysis_on_climate_change/links/6192a9d961f09877209cde59/Intensity-quantification-of-public-opinion-and-emotion-analysis-on-climate-change.pdf
+
+Created directory: ezeichen.com
+
+323 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ezeichen.com/Analysis_of_Past_Behaviour_of_Climate_Change_on_Basis_of_Multiple_Parameters_in_Nagpur.pdf
+
+Created directory: greenclimate.fund
+
+324 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/greenclimate.fund/Complexity_climate_change_and_evaluation.pdf
+
+325 --> Error: https://www.academia.edu/download/51544401/Using_Fuzzy_Logic_to_quantify_climate_ch20170129-11344-b2rban.pdf
+
+326 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/whiterose.ac.uk/Business_Models_Embedding_Ecosystem_Services_to_tackle_Climate_Change_The_case_of_Digital_Climate_Solutions.pdf
+
+327 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/semanticscholar.org/CONCEPTS_LOCATIONS_EMOTIONS_SEMANTIC_ANALYSIS_AND_VISUALIZATION_OF_CLIMATE_CHANGE_TEXTS.pdf
+
+328 --> Error: https://www.researchgate.net/profile/Adrian-Groza/publication/319007342_Analysing_debates_on_climate_change_with_textual_entailment_and_ontologies/links/5a97ea2a0f7e9ba429756aad/Analysing-debates-on-climate-change-with-textual-entailment-and-ontologies.pdf
+
+Created directory: baw.de
+
+329 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/baw.de/IAHR_Conferences_and_climate_change.pdf
+
+330 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/semanticscholar.org/CONCEPTS_LOCATIONS_EMOTIONS_SEMANTIC_ANALYSIS_AND_VISUALIZATION_OF_CLIMATE_CHANGE_TEXTS.pdf
+
+331 --> Error: https://www.researchgate.net/profile/Adrian-Groza/publication/319007342_Analysing_debates_on_climate_change_with_textual_entailment_and_ontologies/links/5a97ea2a0f7e9ba429756aad/Analysing-debates-on-climate-change-with-textual-entailment-and-ontologies.pdf
+
+332 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/baw.de/IAHR_Conferences_and_climate_change.pdf
+
+333 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/semanticscholar.org/Artificial_intelligence_for_predicting_solar_still_production_and_comparison_with_stepwise_regression_under_arid_climate.pdf
+
+334 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/google.com/Systematic_mapping_of_global_research_on_climate_and_health_using_machine_learning.pdf
+
+335 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/mit.edu/Addressing_Climate_Change_through_Community_Organizing_and_Machine_Learning.pdf
+
+336 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uow.edu.au/IT_SOLUTIONS_FOR_CLIMATE_CHANGE.pdf
+
+Created directory: swinburne.edu.au
+
+337 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/swinburne.edu.au/Seasonal_rainfall_forecasting_using_large_scale_climate_drivers_an_artificial_intelligence_approach.pdf
+
+Created directory: ijcai.org
+
+338 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ijcai.org/Climate_Bot_A_Machine_Reading_Comprehension_System_for_Climate_Change_Question_Answering.pdf
+
+Created directory: ijee.net
+
+339 --> Error: https://www.ijee.net/article_85007_6e39d36f6d36c1df57493a30a974f629.pdf
+
+340 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/diva-portal.org/Criteria_for_Quality_Assurance_to_Develop_MOOC_Courses_on_Climate_Change.pdf
+
+341 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/diva-portal.org/Adaptation_of_buildings_for_climate_change_A_literature_review.pdf
+
+Created directory: freepaper.me
+
+342 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/freepaper.me/A_review_of_the_artificial_intelligence_methods_in_groundwater_level_modeling.pdf
+
+Created directory: think-asia.org
+
+343 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/think-asia.org/Climate_Change_Re_assessing_Current_Approaches.pdf
+
+344 --> Error: https://www.mdpi.com/2076-3417/9/19/4155/pdf
+
+345 --> Error: https://www.academia.edu/download/78897778/s11069-021-04620-0.pdf
+
+346 --> Error: https://www.researchgate.net/profile/Nicolas-Guilpart-2/publication/336810715_Assessing_area_suitable_for_diversification_crops_an_example_on_soybean_in_Europe_under_climate_change_using_machine_learning/links/5db3135e92851c577ec34f94/Assessing-area-suitable-for-diversification-crops-an-example-on-soybean-in-Europe-under-climate-change-using-machine-learning.pdf
+
+347 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/The_challenge_of_non_technical_loss_detection_using_artificial_intelligence_A_survey.pdf
+
+Created directory: silicon.ac.in
+
+348 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/silicon.ac.in/An_added_dimension_to_Climate_Change.pdf
+
+349 --> Error: https://www.researchgate.net/profile/Ayantika-D-C/publication/355864578_Climate_change_response_in_wintertime_widespread_fog_conditions_over_the_Indo-Gangetic_Plains/links/618d4c433068c54fa5ceaa3d/Climate-change-response-in-wintertime-widespread-fog-conditions-over-the-Indo-Gangetic-Plains.pdf
+
+Created directory: iag-aig.org
+
+350 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iag-aig.org/Mission_Earth_Geodynamics_and_Climate_Change_Observed_Through_Satellite_Geodesy.pdf
+
+Created directory: clementfung.me
+
+351 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/clementfung.me/GainForest_scaling_climate_finance_for_forest_conservation_using_interpretable_machine_learning_on_satellite_imagery.pdf
+
+Created directory: sadil.ws
+
+352 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/sadil.ws/Climate_change_opinions_in_online_debate_sites.pdf
+
+Created directory: eupha.org
+
+353 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/eupha.org/Climate_change_and_environment_in_2021.pdf
+
+354 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/A_Correlation_Analysis_and_Visualization_of_Climate_Change_using_Post_Disaster_Heterogeneous_Datasets.pdf
+
+Created directory: msu.edu
+
+355 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/msu.edu/Climate_change_and_algal_blooms.pdf
+
+356 --> Error: https://www.researchgate.net/profile/Naseer_Jaffer2/publication/354574336_Climate_Change_Management-Some_Insights_from_a_Recent_Debate/links/61408e50dabce51cf45080ed/Climate-Change-Management-Some-Insights-from-a-Recent-Debate.pdf
+
+Created directory: upct.es
+
+357 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/upct.es/Small_CoM_Municipalities_and_local_climate_change_responsive_strategies.pdf
+
+Created directory: aliyuncs.com
+
+358 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/aliyuncs.com/THE_ROLE_OF_HYPORHEIC_PROCESSES_ON_CLIMATE_CHANGE.pdf
+
+359 --> Error: https://www.tandfonline.com/doi/pdf/10.1080/19942060.2020.1722241
+
+360 --> Error: https://www.researchgate.net/profile/Drisya-Jayakumar/publication/348614937_GIS-Based_Drought_Assessment_in_Climate_Change_Context_A_Case_Study_for_Sone_Command_Bihar/links/60c1bc7ca6fdcc2e612c2ca3/GIS-Based-Drought-Assessment-in-Climate-Change-Context-A-Case-Study-for-Sone-Command-Bihar.pdf
+
+361 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/amazonaws.com/Climate_based_ensemble_machine_learning_model_to_forecast_dengue_epidemics.pdf
+
+362 --> Error: https://www.osti.gov/servlets/purl/1769689
+
+Created directory: icar-nrri.in
+
+363 --> Error: https://icar-nrri.in/wp-content/uploads/2022/05/Book-NRRI-Climate-Resilient.pdf#page=413
+
+Created directory: htirc.org
+
+364 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/htirc.org/Spatiotemporal_trends_of_black_walnut_forest_stocking_under_climate_change.pdf
+
+Created directory: wired.com
+
+365 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/wired.com/Energy_and_Climate_Change_Research_and_the_DARPA_Model.pdf
+
+366 --> Error: https://iwaponline.com/jwcc/article-pdf/12/6/2422/934877/jwc0122422.pdf
+
+Created directory: ucl.ac.uk
+
+367 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ucl.ac.uk/A_Re_Energized_Scientific_approach_for_Governance_of_Disasters_due_to_Climate_Change_for_Sustainable_Development.pdf
+
+Created directory: cmu.edu
+
+368 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cmu.edu/Regulating_artificial_intelligence_systems_Risks_challenges_competencies_and_strategies.pdf
+
+369 --> Error: https://journals.sagepub.com/doi/pdf/10.1177/13548565221135715
+
+370 --> Error: https://www.researchgate.net/profile/Goekcen-Uysal/publication/364113582_Assessment_of_climate_change_effects_on_dam_reservoir_management/links/633ab93d769781354eb66f8a/Assessment-of-climate-change-effects-on-dam-reservoir-management.pdf
+
+Created directory: climateandsecurity.org
+
+371 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/climateandsecurity.org/Tools_for_understanding_systemic_risks_like_climate_change.pdf
+
+372 --> Error: https://www.mdpi.com/books/pdfdownload/book/5923
+
+Created directory: iospress.nl
+
+373 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iospress.nl/Mining_extremes_Severe_rainfall_and_climate_change.pdf
+
+374 --> Error: https://www.researchsquare.com/article/rs-2199410/latest.pdf
+
+Created directory: benthamopen.com
+
+375 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/benthamopen.com/Assessing_hydrological_impacts_of_climate_change_modeling_techniques_and_challenges.pdf
+
+Created directory: ut.ac.ir
+
+376 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ut.ac.ir/Prediction_of_climate_change_induced_temperature_rise_in_regional_scale_using_neural_network.pdf
+
+377 --> Error: https://www.researchgate.net/profile/Eric-Nost/publication/358662265_Earth_for_AI_A_Political_Ecology_of_Data-Driven_Climate_Initiatives/links/620ec9ddf02286737ca81847/Earth-for-AI-A-Political-Ecology-of-Data-Driven-Climate-Initiatives.pdf
+
+378 --> Error: https://www.osti.gov/servlets/purl/1769654
+
+Created directory: intelligentjo.com
+
+379 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/intelligentjo.com/Reducing_Climate_Change_for_Future_Transportation_Roles_of_Computing.pdf
+
+380 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Human_centered_artificial_intelligence_Reliable_safe_trustworthy.pdf
+
+381 --> Error: https://www.osti.gov/servlets/purl/1769705
+
+382 --> Error: https://www.researchgate.net/profile/Eric-Nost/publication/358662265_Earth_for_AI_A_Political_Ecology_of_Data-Driven_Climate_Initiatives/links/620ec9ddf02286737ca81847/Earth-for-AI-A-Political-Ecology-of-Data-Driven-Climate-Initiatives.pdf
+
+383 --> Error: https://www.osti.gov/servlets/purl/1769654
+
+384 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/intelligentjo.com/Reducing_Climate_Change_for_Future_Transportation_Roles_of_Computing.pdf
+
+385 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Human_centered_artificial_intelligence_Reliable_safe_trustworthy.pdf
+
+386 --> Error: https://www.osti.gov/servlets/purl/1769705
+
+387 --> Error: https://www.academia.edu/download/66135903/Scientia_Moralitas_Conference_Proceedings.pdf#page=64
+
+Created directory: oapen.org
+
+388 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/oapen.org/Enabling_Systems_Innovation_in_Climate_Change_Adaptation_Exploring_the_Role_for_MEL.pdf
+
+389 --> Error: https://www.academia.edu/download/84450427/125921750.pdf
+
+Created directory: archive.org
+
+390 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/archive.org/Capitalizing_on_AI_s_Potential_to_Help_Tackle_the_Climate_Crisis.pdf
+
+Created directory: weblyzard.com
+
+391 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/weblyzard.com/Building_a_web_based_knowledge_repository_on_climate_change_to_support_environmental_communities.pdf
+
+392 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/semanticscholar.org/IoT_and_Machine_Learning_for_Identifying_Correlation_between_Factors_Causing_Climate_Change.pdf
+
+393 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/psu.edu/Process_synthesis_prospective.pdf
+
+394 --> Error: https://www.researchgate.net/profile/Hatice-Biyik/publication/364931027_BIM_Use_in_Retrofit_Optimization_for_the_Climate_Change_Mitigations_and_Adaptations_Measures/links/635eef216e0d367d91de6464/BIM-Use-in-Retrofit-Optimization-for-the-Climate-Change-Mitigations-and-Adaptations-Measures.pdf
+
+395 --> Error: https://www.researchgate.net/profile/Thomas-Harvey-23/publication/359467072_Kullback-Leibler_Divergence_of_Mixture_Autoregressive_Random_Processes_via_Extreme-Value-Distributions_EVDs_Noise_with_Application_of_the_Processes_to_Climate_Change/links/623dd01721077329f2d30310/Kullback-Leibler-Divergence-of-Mixture-Autoregressive-Random-Processes-via-Extreme-Value-Distributions-EVDs-Noise-with-Application-of-the-Processes-to-Climate-Change.pdf
+
+396 --> Error: https://www.mdpi.com/2078-2489/8/4/156/pdf?version=1511769935
+
+397 --> Error: https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcc.650
+
+Created directory: xjegi.com
+
+398 --> Error: http://jal.xjegi.com/EN/article/downloadArticleFile.do?attachType=PDF&id=806
+
+Created directory: tamu.edu
+
+399 --> Error: https://scholarship.law.tamu.edu/cgi/viewcontent.cgi?article=2425&context=facscholar
+
+400 --> Error: https://www.academia.edu/download/46599862/Comparative_study_of_artificial_intellig20160618-944-2jfrfn.pdf
+
+401 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/biorxiv.org/Spatio_temporal_model_and_machine_learning_method_reveal_process_of_phenological_shift_under_climate_change_of_North_Pacific_spiny_dogfish.pdf
+
+Created directory: unescap.org
+
+402 --> Error: https://repository.unescap.org/bitstream/handle/20.500.12870/4694/ESCAP-1995-RP-Improving-access-women-formal-credit-financial-institutions.pdf?sequence=1
+
+403 --> Error: http://jal.xjegi.com/EN/article/downloadArticleFile.do?attachType=PDF&id=806
+
+404 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/tamu.edu/The_algorithmic_divide_and_equality_in_the_age_of_artificial_intelligence.pdf
+
+405 --> Error: https://www.academia.edu/download/46599862/Comparative_study_of_artificial_intellig20160618-944-2jfrfn.pdf
+
+406 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/biorxiv.org/Spatio_temporal_model_and_machine_learning_method_reveal_process_of_phenological_shift_under_climate_change_of_North_Pacific_spiny_dogfish.pdf
+
+407 --> Error: https://repository.unescap.org/bitstream/handle/20.500.12870/4694/ESCAP-1995-RP-Improving-access-women-formal-credit-financial-institutions.pdf?sequence=1
+
+408 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022EA002348
+
+Created directory: fit.edu
+
+409 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/fit.edu/Adaptation_to_Climate_Change_in_Regional_Australia_A_Decision_Making_Framework_for_Modelling_Policy_for_Rural_Production.pdf
+
+Created directory: ukim.mk
+
+410 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ukim.mk/Influence_of_climate_change_on_diatoms_diversity_indices_in_Lake_Prespa.pdf
+
+411 --> Error: https://www.researchgate.net/profile/Saleem-Mustafa-3/publication/334076811_Nature-based_and_technology-based_solutions_for_sustainable_blue_growth_and_climate_change_mitigation_in_marine_biodiversity_hotspots/links/5d2d28ad458515c11c336a4f/Nature-based-and-technology-based-solutions-for-sustainable-blue-growth-and-climate-change-mitigation-in-marine-biodiversity-hotspots.pdf
+
+412 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/fit.edu/Adaptation_to_Climate_Change_in_Regional_Australia_A_Decision_Making_Framework_for_Modelling_Policy_for_Rural_Production.pdf
+
+413 --> Error: https://www.sciencedirect.com/science/article/am/pii/S0022169421004704
+
+414 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/rug.nl/Winter_moth_Operophtera_brumata_adaptation_to_climate_change_embryonic_response_to_temperature.pdf
+
+415 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/aaai.org/Understanding_Social_Media_s_Take_on_Climate_Change_through_Large_Scale_Analysis_of_Targeted_Opinions_and_Emotions.pdf
+
+Created directory: byu.edu
+
+416 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/byu.edu/AUTOFLOW_c_A_novel_application_for_Water_Resource_Management_and_Climate_Change_Response_using_smart_technology.pdf
+
+Created directory: univerpubl.com
+
+417 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/univerpubl.com/Causes_Effects_and_Predictions_of_the_Global_Climate_Change_2012_2026.pdf
+
+Created directory: wasteroadmap.co.za
+
+418 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/wasteroadmap.co.za/CAPTURE_Climate_Change_Adaptation_amid_Plastic_Waste_Transport_in_the_Umgeni_River_Environment.pdf
+
+419 --> Error: https://www.researchgate.net/profile/Albaraa-Elsaied/publication/353247946_Environmental_monitoring_of_anthropogenic_impacts_and_climate_change_a_case_study_from_the_national_network_of_roads_in_Egypt/links/60ef7ff016f9f3130083d788/Environmental-monitoring-of-anthropogenic-impacts-and-climate-change-a-case-study-from-the-national-network-of-roads-in-Egypt.pdf
+
+420 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/dergipark.org.tr/Forecasting_Precipitation_by_Machine_Learning_Algorithms_to_Adapt_Climate_Change.pdf
+
+421 --> Error: https://www.researchgate.net/profile/S_Madeh_Piryonesi2/publication/337744672_The_Application_of_Data_Analytics_to_Asset_Management_Deterioration_and_Climate_Change_Adaptation_in_Ontario_Roads/links/5de7fb184585159aa462b6a4/The-Application-of-Data-Analytics-to-Asset-Management-Deterioration-and-Climate-Change-Adaptation-in-Ontario-Roads.pdf
+
+Created directory: davidpublisher.com
+
+422 --> Error: https://www.davidpublisher.com/Public/uploads/Contribute/59dc75cd8bf61.pdf
+
+Created directory: iwra.org
+
+423 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/iwra.org/Smart_City_Clima_an_approach_for_reducing_vulnerability_to_climate_change_and_increasing_resilience_in_cities_a_case_study_for_Buenos_Aires_city.pdf
+
+Created directory: hcommons.org
+
+424 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/hcommons.org/FAIR_climate_change_emergent_data_framework.pdf
+
+Created directory: cartogis.org
+
+425 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cartogis.org/Algorithmic_Information_Dynamics_of_Climate_Risk_in_Supply_Chain_Management.pdf
+
+426 --> Error: https://www.academia.edu/download/67761160/nhess_2020_90.pdf
+
+Created directory: aueb.gr
+
+427 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/aueb.gr/Special_Theme_The_Climate_Action_Mathematics_Informatics_and_Socio_Economics_Accelerating_the_Sustainability.pdf
+
+428 --> Error: https://www.researchgate.net/profile/Bouharati-Saddek/publication/320226479_Climate_Changes_Effect_On_The_Agents_Involved_In_Epidemic_Diseases_Intelligent_Technique_Modeling/links/59d61e200f7e9b7a7e49d7ee/Climate-Changes-Effect-On-The-Agents-Involved-In-Epidemic-Diseases-Intelligent-Technique-Modeling.pdf
+
+Created directory: epfl.ch
+
+429 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/epfl.ch/On_correlating_bird_migration_trajectory_with_climate_changes.pdf
+
+430 --> Error: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021MS002464
+
+431 --> Error: https://www.osti.gov/servlets/purl/1769658
+
+432 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cmu.edu/Using_Machine_Learning_to_Target_Retrofits_in_Commercial_Buildings_under_Alternative_Climate_Change_Scenarios.pdf
+
+Created directory: ayankanhaiaman.com
+
+433 --> Error: http://www.ayankanhaiaman.com/uploads/papers/350c5.pdf
+
+Created directory: ubc.ca
+
+434 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ubc.ca/A_machine_learning_approach_to_understanding_the_effects_of_climate_change_and_competition_on_growth_of_coihue_Nothofagus_dombeyi_and_lenga_Nothofagus.pdf
+
+Created directory: flvc.org
+
+435 --> Error: https://fau.digital.flvc.org/islandora/object/fau%3A44409/datastream/OBJ/view/Reimagining_Climate_Change__Visualizing_the_Future_of_Sustainability.pdf
+
+436 --> Error: https://www.researchgate.net/profile/Gerardo-Escamilla-2/publication/337929353_Speeding_up_the_energy_transition_Climate_change_decision-making_using_machine_learning/links/5df4d668299bf10bc359daff/Speeding-up-the-energy-transition-Climate-change-decision-making-using-machine-learning.pdf
+
+Created directory: tari.gov.tw
+
+437 --> Error: https://scholars.tari.gov.tw/bitstream/123456789/6249/1/no215-21.pdf
+
+438 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/archives-ouvertes.fr/Overcoming_the_final_frontier_of_climate_change_in_viticulture_exploring_interactions_between_society_and_environment_using_Agent_Based_Modelling_and_Companion.pdf
+
+Created directory: frontiersin.org
+
+439 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/frontiersin.org/Climate_change_human_health_and_health_informatics_a_new_view_of_connected_and_sustainable_digital_health.pdf
+
+Created directory: theseus.fi
+
+440 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/theseus.fi/Sentiment_analysis_of_climate_change_using_Twitter_API_and_machine_learning.pdf
+
+Created directory: polimi.it
+
+441 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/polimi.it/Sovereign_rating_assessment_with_parsimonious_models_and_link_with_climate_change.pdf
+
+442 --> Error: https://www.academia.edu/download/39905109/Managing_Electric_Vehicles_in_the_Smart_20151111-7042-17z3z4s.pdf
+
+443 --> Error: https://www.mdpi.com/2071-1050/12/18/7657/pdf
+
+444 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/uni-corvinus.hu/Visualization_of_the_climate_change_with_the_shift_of_the_so_called_Moesz_line.pdf
+
+Created directory: ui.ac.ir
+
+445 --> Error: https://gep.ui.ac.ir/article_26454_e43cbb6661d7465d11e1a81ebddca753.pdf?lang=en
+
+446 --> Error: https://www.academia.edu/download/89188534/095935431774933220220801-1-12p4tj.pdf
+
+Created directory: scienceopen.com
+
+447 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/scienceopen.com/Story_Web_Co_authoring_Immersive_Climate_Change_Stories_using_Museums_as_Big_Data.pdf
+
+Created directory: apctt.org
+
+448 --> Error: https://apctt.org/sites/default/files/attachment/2021-12/21Jul-Sep_sf1_0.pdf
+
+449 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Machine_learning_reveals_how_personalized_climate_communication_can_both_succeed_and_backfire.pdf
+
+450 --> Error: https://direct.mit.edu/glep/article-pdf/20/2/166/1859736/glep_r_00553.pdf
+
+Created directory: agro-craiova.ro
+
+451 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/agro-craiova.ro/IMPACT_AND_EMERGENCE_OF_CLIMATE_CHANGE_ON_THE_SOCIO_HUMAN_ENVIRONMENT.pdf
+
+452 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/psu.edu/A_web_based_systems_simulator_for_climate_governance.pdf
+
+Created directory: ugr.es
+
+453 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/ugr.es/Deep_Neural_Networks_for_Statistical_Downscaling_of_Climate_Change_Projections.pdf
+
+454 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/weblyzard.com/Media_Watch_on_Climate_Change_A_Web_based_Knowledge_Repository_to_Promote_Awareness_and_Analyze_Stakeholder_Communication.pdf
+
+455 --> Error: https://www.researchgate.net/profile/Julia-Avila/publication/356839367_Adaptations_by_riverside_lowland_and_Paleovarzea_forest_producers_in_the_Amazon_in_the_context_of_climate_change/links/61afb37668b5ed4ef5ee2ef4/Adaptations-by-riverside-lowland-and-Paleovarzea-forest-producers-in-the-Amazon-in-the-context-of-climate-change.pdf#page=92
+
+Created directory: landscapepartnership.org
+
+456 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/landscapepartnership.org/Shifts_in_Arctic_vegetation_and_associated_feedbacks_under_climate_change.pdf
+
+Created directory: nato.int
+
+457 --> Error: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-177/MP-MSG-177-08.pdf
+
+458 --> Error: https://www.mdpi.com/2071-1050/14/9/5153/pdf?version=1650868243
+
+459 --> Error: https://www.osti.gov/servlets/purl/1769687
+
+Created directory: cuni.cz
+
+460 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/cuni.cz/Big_Data_and_governing_climate_change_opportunities_and_challenges.pdf
+
+461 --> Error: https://www.researchgate.net/profile/Joyashree-Roy/publication/229375069_Lifestyles_and_climate_change_link_awaiting_activation/links/5d2958cf92851cf4407e8ad1/Lifestyles-and-climate-change-link-awaiting-activation.pdf
+
+462 --> Error: https://www.researchgate.net/profile/Benedict-Michael-2/publication/346397214_A_PHILOSOPHICAL_LOOK_AT_THE_EFFECT_OF_RELIGION_GLOBAL_CLIMATE_CHANGE/links/5fbfac84458515b7977046a2/A-PHILOSOPHICAL-LOOK-AT-THE-EFFECT-OF-RELIGION-GLOBAL-CLIMATE-CHANGE.pdf
+
+463 --> Error: https://www.researchgate.net/profile/Asmat-Ullah-3/publication/324006177_Prediction_of_effective_climate_change_indicators_using_statistical_downscaling_approach_and_impact_assessment_on_pearl_millet_Pennisetum_glaucum_L_yield_through_Genetic_Algorithm_in_Punjab_Pakistan/links/5c35857fa6fdccd6b59d97cf/Prediction-of-effective-climate-change-indicators-using-statistical-downscaling-approach-and-impact-assessment-on-pearl-millet-Pennisetum-glaucum-L-yield-through-Genetic-Algorithm-in-Punjab-Pakistan.pdf
+
+464 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/arxiv.org/Understanding_artificial_intelligence_ethics_and_safety.pdf
+
+465 --> Error: https://www.researchgate.net/profile/Sankara-Jefferson/publication/350373311_MACHINE_LEARNING_APPLICATIONS_THAT_CAN_HELP_PASTORAL_COMMUNITIES_IN_NORTHERN_KENYA_AND_ELSEWHERE_ADAPT_TO_CLIMATE_CHANGE/links/605c489da6fdccbfea04b6ae/MACHINE-LEARNING-APPLICATIONS-THAT-CAN-HELP-PASTORAL-COMMUNITIES-IN-NORTHERN-KENYA-AND-ELSEWHERE-ADAPT-TO-CLIMATE-CHANGE.pdf
+
+Created directory: bournemouth.ac.uk
+
+466 --> Downloaded at: /home/gereltuya/Downloads/spbu/ai-for-climate-action/data/google-scholar/papers/bournemouth.ac.uk/Reflections_and_projections_on_a_decade_of_climate_science.pdf 
